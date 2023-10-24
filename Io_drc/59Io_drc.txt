@@ -1,0 +1,12 @@
+packagesizeX 4500
+packagesizeY 4500
+ballpitch 500 
+balldiameter 350
+balldimensionX 8
+balldimensionY 8
+viadiamter 230
+wirewidth 40 
+spacing 40
+numlayer 2
+via_padstack 4VIA300
+conductor C1,C2

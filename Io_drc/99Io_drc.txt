@@ -1,0 +1,12 @@
+packagesizeX 7000
+packagesizeY 7000
+ballpitch 650 
+balldiameter 400
+balldimensionX 10
+balldimensionY 10
+viadiamter 230
+wirewidth 50 
+spacing 40
+numlayer 2
+via_padstack VIA230
+conductor C1,C2

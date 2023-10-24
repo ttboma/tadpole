@@ -1,0 +1,12 @@
+packagesizeX 15000
+packagesizeY 15000
+ballpitch 650 
+balldiameter 355
+balldimensionX 22
+balldimensionY 22
+viadiamter 180
+wirewidth 35
+spacing 40
+numlayer 2
+via_padstack 2VIA180
+conductor Cu1,Cu2

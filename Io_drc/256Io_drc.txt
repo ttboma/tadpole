@@ -1,0 +1,12 @@
+packagesizeX 17000
+packagesizeY 17000
+ballpitch 1000
+balldiameter 580
+balldimensionX 16
+balldimensionY 16
+viadiamter 250
+wirewidth 60 
+spacing 40
+numlayer 2
+via_padstack VIA250
+conductor C1,C2

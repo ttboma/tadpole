@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>README</title>
+  <style>
+    html {
+      line-height: 1.5;
+      font-family: Georgia, serif;
+      font-size: 20px;
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 1em;
+      }
+    }
+    @media print {
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+      font-size: 85%;
+      margin: 0;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    pre > code.sourceCode { white-space: pre; position: relative; }
+    pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+    pre > code.sourceCode > span:empty { height: 1.2em; }
+    .sourceCode { overflow: visible; }
+    code.sourceCode > span { color: inherit; text-decoration: inherit; }
+    div.sourceCode { margin: 1em 0; }
+    pre.sourceCode { margin: 0; }
+    @media screen {
+    div.sourceCode { overflow: auto; }
+    }
+    @media print {
+    pre > code.sourceCode { white-space: pre-wrap; }
+    pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+    }
+    pre.numberSource code
+      { counter-reset: source-line 0; }
+    pre.numberSource code > span
+      { position: relative; left: -4em; counter-increment: source-line; }
+    pre.numberSource code > span > a:first-child::before
+      { content: counter(source-line);
+        position: relative; left: -1em; text-align: right; vertical-align: baseline;
+        border: none; display: inline-block;
+        -webkit-touch-callout: none; -webkit-user-select: none;
+        -khtml-user-select: none; -moz-user-select: none;
+        -ms-user-select: none; user-select: none;
+        padding: 0 4px; width: 4em;
+        color: #aaaaaa;
+      }
+    pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+    div.sourceCode
+      {   }
+    @media screen {
+    pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+    }
+    code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+    code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+    code span.at { color: #7d9029; } /* Attribute */
+    code span.bn { color: #40a070; } /* BaseN */
+    code span.bu { } /* BuiltIn */
+    code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+    code span.ch { color: #4070a0; } /* Char */
+    code span.cn { color: #880000; } /* Constant */
+    code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+    code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+    code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+    code span.dt { color: #902000; } /* DataType */
+    code span.dv { color: #40a070; } /* DecVal */
+    code span.er { color: #ff0000; font-weight: bold; } /* Error */
+    code span.ex { } /* Extension */
+    code span.fl { color: #40a070; } /* Float */
+    code span.fu { color: #06287e; } /* Function */
+    code span.im { } /* Import */
+    code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+    code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+    code span.op { color: #666666; } /* Operator */
+    code span.ot { color: #007020; } /* Other */
+    code span.pp { color: #bc7a00; } /* Preprocessor */
+    code span.sc { color: #4070a0; } /* SpecialChar */
+    code span.ss { color: #bb6688; } /* SpecialString */
+    code span.st { color: #4070a0; } /* String */
+    code span.va { color: #19177c; } /* Variable */
+    code span.vs { color: #4070a0; } /* VerbatimString */
+    code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h1 id="readme">README</h1>
+<p>大家好，我是這個 project 的作者，我叫 <strong>謝岳璋</strong>，指導教授是 <strong>劉一宇</strong> 博士。 README.md 文件是以 <a href="https://pandoc.org/MANUAL.html">pandoc’s markdown</a> 寫成，再由 pandoc 轉成 README.html，建議可以開 README.html 看就好。</p>
+<h2 id="project-contents">Project Contents</h2>
+<p>這個 project 是我的論文 “<a href="./documentation/_2022__Yueh_chang_Shieh__Topological_Escape_Routing_for_Package_Substrate_Design_Planning.pdf">Topological Escape Routing for Package Substrate Design Planning</a>” 的實作，詳細內容可以參考我的論文。以下是這個 project 裡的內容：</p>
+<pre><code>tadpole
+├── CMakeLists.txt
+├── Io_drc
+├── README.html
+├── README.md
+├── bin
+├── build
+├── documentation
+├── inc
+├── result
+├── src
+├── tags
+└── via_info</code></pre>
+<ul>
+<li><p>首先我們看到 CMakeLists.txt 檔案，此 project 以 cmake 編譯，其依賴的 library 有:</p>
+<ul>
+<li><a href="https://www.boost.org/doc/libs/1_76_0/libs/graph/doc/index.html">boost</a>: 我會需要裡面的 boost graph library, geometry library, polygon library</li>
+<li><a href="https://github.com/fmtlib/fmt">fmt</a>: 有些 cout 是用這個 library 印出的</li>
+<li><a href="http://libxlsxwriter.github.io">xlsxwriter</a>: 忘記哪裡用到了，說不定不用</li>
+<li><a href="http://www.gnuplot.info">gnuplot 5.2</a>: 我的 geometrical visualization 會輸出一個 gnuplot 5 語法的 script，要更新到 gnuplot 5<br />
+</li>
+<li><a href="https://openpyxl.readthedocs.io/en/stable/">python3 library openpyxl</a>: 這是用在最後將所有結果自動化產生一個 xlsx 檔，./src/experimentw.cpp 及 ./src/write_to_xlsx.py 會使用到，產生的結果請看 result 資料夾的內容。</li>
+</ul>
+<p>建議細看我的 cmake 的寫法，大概的重點是：</p>
+<ul>
+<li><p>cpp 檔都放在 src 資料夾</p></li>
+<li><p>header 檔都放在 inc 資料夾</p></li>
+<li><p>tags 檔案是由 ctags 產生，trace code 會需要，強烈建議要用。</p></li>
+<li><p>Input 資料都放在 Io_drc 及 via_info 資料夾裡</p></li>
+<li><p>編譯時請將 pwd 設定在 tadpole，然後使用以下 command 編譯：</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="fu">cmake</span> . <span class="at">-B</span> build</span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="fu">make</span> <span class="at">-C</span> build</span></code></pre></div></li>
+<li><p>cmake 自動產生的文件會放在 build 資料夾裡，產生的執行檔會放在 bin 資料夾裡，請將 pwd 設為 tadpole，然後直接執行執行檔就可以了。e.g.</p>
+<div class="sourceCode" id="cb3"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="ex">./bin/demo_1</span></span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="ex">./bin/experiment2</span></span></code></pre></div></li>
+</ul></li>
+<li><p>我的實作內容都放在 ./inc/topology.h 檔案裡。所有用到我的實作的 source file 都必須包含 <code>#include &lt;topology.h&gt;</code>。其具體如何使用，請看 ./src/expriment2.cpp，這個 source file 就是我的論文中整個 topology escape routing flow 的實作，要 trace code 可以從這裡開始。</p></li>
+<li><p>若要了解我的論文中 triple list table 怎麼使用，可以見 demo_1.cpp ～ demo_6.cpp，這幾個 demo 是用來產生我論文中的示意圖的，可以自己玩一下，有助於了解 triple list 的核心實作。若遇到 segmentation fault 或是很奇怪的結果，就是你 make_slice 了不在相同 slice 的 topology vertices，這樣是不合法的所以產生未定義行為。唯注意 demo 中 <code>syc::topology::model::v_01::sketchable_forest&lt;&gt;</code> 這個 class 就是 triple list table 的實作，v_01 代表是第一版，名字不一樣是因為後來論文的最終名字與一開始取的名字不一樣。</p></li>
+<li><p>我們來看看 ./inc/topology.h 。建議使用 ctags 來 trace code，可以看到右邊的 panel，這是 <a href="https://github.com/webastien/vim-ctags">vim-ctags plugin</a> 顯示 ctags 產生的 tags 檔的結果。<img src="./documentation/fig/Screen_shot_1.png" alt="Screen shot 1" /> 我的實作都放在 syc::topology namespace 之下，v_01 代表第一版，sketchable_forest就是實作在這一版本裡，第二第三版都會繼承這個 class，而第二版是過渡期，不用進去看，需要看 v_01 及 v_03 的內容就可以了</p></li>
+<li><p>其他沒提到的檔案都是過度檔案，有些 bug 不用理它們，但也可以進去看看參考一下。因為趕畢業，很多寫得很亂抱歉了ＱＱ</p></li>
+</ul>
+</body>
+</html>

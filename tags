@@ -1,0 +1,1264 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/Users/shiehyuehchang/C++Projects/tadpole/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20211205.0/
+$(VERBOSE).SILENT	build/Makefile	/^$(VERBOSE).SILENT:$/;"	t
+$(VERBOSE)MAKESILENT	build/Makefile	/^$(VERBOSE)MAKESILENT = -s$/;"	m
+%	build/Makefile	/^% : %,v$/;"	t
+%	build/Makefile	/^% : RCS\/%$/;"	t
+%	build/Makefile	/^% : RCS\/%,v$/;"	t
+%	build/Makefile	/^% : SCCS\/s.%$/;"	t
+%	build/Makefile	/^% : s.%$/;"	t
+ARCHITECTURE_ID	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^#   define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^#  define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^#  define ARCHITECTURE_ID$/;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define ARCHITECTURE_ID$/;"	d	file:
+B	inc/topology.h	/^            int                     B;          \/\/ IN:      number of roots on the boudary$/;"	m	struct:syc::topology::v_02::detail::compute_dest_ordering_and_cross_number	typeref:typename:int
+B	inc/topology.h	/^            int                     B;          \/\/ IN:      number of roots on the boudary$/;"	m	struct:syc::topology::v_02::detail::compute_dest_ordering_and_cross_number2	typeref:typename:int
+B	inc/topology.h	/^            int                     B;          \/\/ IN:      number of roots on the boudary$/;"	m	struct:syc::topology::v_03::detail::compute_dest_ordering_and_cross_number2	typeref:typename:int
+B	inc/topology.h	/^            int             B;      \/\/ number of roots on the boudary$/;"	m	struct:syc::topology::v_02::detail::determine_net_priority_and_copmute_dest_ordering	typeref:typename:int
+B	inc/topology.h	/^            int             B;      \/\/ number of roots on the boudary$/;"	m	struct:syc::topology::v_03::detail::compute_net_priority_and_dest_ordering	typeref:typename:int
+B	inc/topology.h	/^            int             B;      \/\/ number of roots on the boudary$/;"	m	struct:syc::topology::v_03::detail::determine_net_priority_and_copmute_dest_ordering	typeref:typename:int
+C	inc/topology.h	/^            CircularFrame&  C;$/;"	m	struct:syc::topology::v_02::detail::determine_net_priority_and_copmute_dest_ordering	typeref:typename:CircularFrame &
+C	inc/topology.h	/^            CircularFrame&  C;$/;"	m	struct:syc::topology::v_03::detail::compute_net_priority_and_dest_ordering	typeref:typename:CircularFrame &
+C	inc/topology.h	/^            CircularFrame&  C;$/;"	m	struct:syc::topology::v_03::detail::determine_net_priority_and_copmute_dest_ordering	typeref:typename:CircularFrame &
+CMAKE_AR	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_AR "\/Library\/Developer\/CommandLineTools\/usr\/bin\/ar")$/;"	v
+CMAKE_AR	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_AR "\/Library\/Developer\/CommandLineTools\/usr\/bin\/ar")$/;"	v
+CMAKE_C11_COMPILE_FEATURES	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_C11_COMPILE_FEATURES "c_std_11;c_static_assert")$/;"	v
+CMAKE_C17_COMPILE_FEATURES	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_C17_COMPILE_FEATURES "c_std_17")$/;"	v
+CMAKE_C23_COMPILE_FEATURES	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_C23_COMPILE_FEATURES "c_std_23")$/;"	v
+CMAKE_C90_COMPILE_FEATURES	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_C90_COMPILE_FEATURES "c_std_90;c_function_prototypes")$/;"	v
+CMAKE_C99_COMPILE_FEATURES	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_C99_COMPILE_FEATURES "c_std_99;c_restrict;c_variadic_macros")$/;"	v
+CMAKE_CL_SHOWINCLUDES_PREFIX	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^  set(CMAKE_CL_SHOWINCLUDES_PREFIX "${CMAKE_C_CL_SHOWINCLUDES_PREFIX}")$/;"	v
+CMAKE_CL_SHOWINCLUDES_PREFIX	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^  set(CMAKE_CL_SHOWINCLUDES_PREFIX "${CMAKE_CXX_CL_SHOWINCLUDES_PREFIX}")$/;"	v
+CMAKE_COMMAND	build/Makefile	/^CMAKE_COMMAND = \/opt\/homebrew\/Cellar\/cmake\/3.21.2\/bin\/cmake$/;"	m
+CMAKE_COMPILER_IS_CYGWIN	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_COMPILER_IS_CYGWIN )$/;"	v
+CMAKE_COMPILER_IS_CYGWIN	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_COMPILER_IS_CYGWIN )$/;"	v
+CMAKE_COMPILER_IS_GNUCC	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_COMPILER_IS_GNUCC )$/;"	v
+CMAKE_COMPILER_IS_GNUCXX	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_COMPILER_IS_GNUCXX )$/;"	v
+CMAKE_COMPILER_IS_MINGW	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_COMPILER_IS_MINGW )$/;"	v
+CMAKE_COMPILER_IS_MINGW	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_COMPILER_IS_MINGW )$/;"	v
+CMAKE_CROSSCOMPILING	build/CMakeFiles/3.21.2/CMakeSystem.cmake	/^set(CMAKE_CROSSCOMPILING "FALSE")$/;"	v
+CMAKE_CROSSCOMPILING	build/cmake_install.cmake	/^  set(CMAKE_CROSSCOMPILING "FALSE")$/;"	v
+CMAKE_CXX11_COMPILE_FEATURES	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX11_COMPILE_FEATURES "cxx_std_11;cxx_alias_templates;cxx_alignas;cxx_alignof;cxx_att/;"	v
+CMAKE_CXX14_COMPILE_FEATURES	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX14_COMPILE_FEATURES "cxx_std_14;cxx_aggregate_default_initializers;cxx_attribute_de/;"	v
+CMAKE_CXX17_COMPILE_FEATURES	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX17_COMPILE_FEATURES "cxx_std_17")$/;"	v
+CMAKE_CXX20_COMPILE_FEATURES	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX20_COMPILE_FEATURES "cxx_std_20")$/;"	v
+CMAKE_CXX23_COMPILE_FEATURES	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX23_COMPILE_FEATURES "")$/;"	v
+CMAKE_CXX98_COMPILE_FEATURES	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX98_COMPILE_FEATURES "cxx_std_98;cxx_template_template_parameters")$/;"	v
+CMAKE_CXX_ABI_COMPILED	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_ABI_COMPILED TRUE)$/;"	v
+CMAKE_CXX_BYTE_ORDER	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_BYTE_ORDER "LITTLE_ENDIAN")$/;"	v
+CMAKE_CXX_CL_SHOWINCLUDES_PREFIX	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_CL_SHOWINCLUDES_PREFIX "")$/;"	v
+CMAKE_CXX_COMPILER	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER "\/Library\/Developer\/CommandLineTools\/usr\/bin\/c++")$/;"	v
+CMAKE_CXX_COMPILER_ABI	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_ABI "")$/;"	v
+CMAKE_CXX_COMPILER_AR	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_AR "")$/;"	v
+CMAKE_CXX_COMPILER_ARG1	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_ARG1 "")$/;"	v
+CMAKE_CXX_COMPILER_ENV_VAR	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_ENV_VAR "CXX")$/;"	v
+CMAKE_CXX_COMPILER_FRONTEND_VARIANT	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_FRONTEND_VARIANT "")$/;"	v
+CMAKE_CXX_COMPILER_ID	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_ID "AppleClang")$/;"	v
+CMAKE_CXX_COMPILER_ID_RUN	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_ID_RUN 1)$/;"	v
+CMAKE_CXX_COMPILER_LOADED	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_LOADED 1)$/;"	v
+CMAKE_CXX_COMPILER_RANLIB	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_RANLIB "")$/;"	v
+CMAKE_CXX_COMPILER_VERSION	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_VERSION "13.0.0.13000029")$/;"	v
+CMAKE_CXX_COMPILER_VERSION_INTERNAL	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_VERSION_INTERNAL "")$/;"	v
+CMAKE_CXX_COMPILER_WORKS	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_WORKS TRUE)$/;"	v
+CMAKE_CXX_COMPILER_WRAPPER	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_WRAPPER "")$/;"	v
+CMAKE_CXX_COMPILE_FEATURES	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILE_FEATURES "cxx_std_98;cxx_template_template_parameters;cxx_std_11;cxx_alias/;"	v
+CMAKE_CXX_FLAGS	CMakeLists.txt	/^set( CMAKE_CXX_FLAGS "-O3 -L\/opt\/homebrew\/lib -lxlsxwriter" )				# Specify some other flags$/;"	v
+CMAKE_CXX_IGNORE_EXTENSIONS	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_IGNORE_EXTENSIONS inl;h;hpp;HPP;H;o;O;obj;OBJ;def;DEF;rc;RC)$/;"	v
+CMAKE_CXX_IMPLICIT_INCLUDE_DIRECTORIES	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_IMPLICIT_INCLUDE_DIRECTORIES "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX/;"	v
+CMAKE_CXX_IMPLICIT_LINK_DIRECTORIES	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_IMPLICIT_LINK_DIRECTORIES "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX12./;"	v
+CMAKE_CXX_IMPLICIT_LINK_FRAMEWORK_DIRECTORIES	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_IMPLICIT_LINK_FRAMEWORK_DIRECTORIES "\/Library\/Developer\/CommandLineTools\/SDKs\//;"	v
+CMAKE_CXX_IMPLICIT_LINK_LIBRARIES	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_IMPLICIT_LINK_LIBRARIES "c++")$/;"	v
+CMAKE_CXX_INCLUDE_REGEX_COMPLAIN	build/CMakeFiles/CMakeDirectoryInformation.cmake	/^set(CMAKE_CXX_INCLUDE_REGEX_COMPLAIN ${CMAKE_C_INCLUDE_REGEX_COMPLAIN})$/;"	v
+CMAKE_CXX_INCLUDE_REGEX_SCAN	build/CMakeFiles/CMakeDirectoryInformation.cmake	/^set(CMAKE_CXX_INCLUDE_REGEX_SCAN ${CMAKE_C_INCLUDE_REGEX_SCAN})$/;"	v
+CMAKE_CXX_LIBRARY_ARCHITECTURE	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_LIBRARY_ARCHITECTURE "")$/;"	v
+CMAKE_CXX_LINKER_PREFERENCE	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_LINKER_PREFERENCE 30)$/;"	v
+CMAKE_CXX_LINKER_PREFERENCE_PROPAGATES	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_LINKER_PREFERENCE_PROPAGATES 1)$/;"	v
+CMAKE_CXX_PLATFORM_ID	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_PLATFORM_ID "Darwin")$/;"	v
+CMAKE_CXX_SIMULATE_ID	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_SIMULATE_ID "")$/;"	v
+CMAKE_CXX_SIMULATE_VERSION	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_SIMULATE_VERSION "")$/;"	v
+CMAKE_CXX_SIZEOF_DATA_PTR	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_SIZEOF_DATA_PTR "8")$/;"	v
+CMAKE_CXX_SOURCE_FILE_EXTENSIONS	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_SOURCE_FILE_EXTENSIONS C;M;c++;cc;cpp;cxx;m;mm;mpp;CPP;ixx;cppm)$/;"	v
+CMAKE_CXX_STANDARD	CMakeLists.txt	/^set( CMAKE_CXX_STANDARD 17 )												# Using c++17 standard, it's like -std=c++17 option$/;"	v
+CMAKE_CXX_STANDARD_COMPUTED_DEFAULT	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_STANDARD_COMPUTED_DEFAULT "98")$/;"	v
+CMAKE_CXX_STANDARD_REQUIRED	CMakeLists.txt	/^set( CMAKE_CXX_STANDARD_REQUIRED ON )$/;"	v
+CMAKE_C_ABI_COMPILED	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_C_ABI_COMPILED TRUE)$/;"	v
+CMAKE_C_BYTE_ORDER	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_C_BYTE_ORDER "LITTLE_ENDIAN")$/;"	v
+CMAKE_C_CL_SHOWINCLUDES_PREFIX	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_C_CL_SHOWINCLUDES_PREFIX "")$/;"	v
+CMAKE_C_COMPILER	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER "\/Library\/Developer\/CommandLineTools\/usr\/bin\/cc")$/;"	v
+CMAKE_C_COMPILER_ABI	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER_ABI "")$/;"	v
+CMAKE_C_COMPILER_AR	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER_AR "")$/;"	v
+CMAKE_C_COMPILER_ARG1	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER_ARG1 "")$/;"	v
+CMAKE_C_COMPILER_ENV_VAR	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER_ENV_VAR "CC")$/;"	v
+CMAKE_C_COMPILER_FRONTEND_VARIANT	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER_FRONTEND_VARIANT "")$/;"	v
+CMAKE_C_COMPILER_ID	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER_ID "AppleClang")$/;"	v
+CMAKE_C_COMPILER_ID_RUN	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER_ID_RUN 1)$/;"	v
+CMAKE_C_COMPILER_LOADED	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER_LOADED 1)$/;"	v
+CMAKE_C_COMPILER_RANLIB	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER_RANLIB "")$/;"	v
+CMAKE_C_COMPILER_VERSION	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER_VERSION "13.0.0.13000029")$/;"	v
+CMAKE_C_COMPILER_VERSION_INTERNAL	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER_VERSION_INTERNAL "")$/;"	v
+CMAKE_C_COMPILER_WORKS	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER_WORKS TRUE)$/;"	v
+CMAKE_C_COMPILER_WRAPPER	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER_WRAPPER "")$/;"	v
+CMAKE_C_COMPILE_FEATURES	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILE_FEATURES "c_std_90;c_function_prototypes;c_std_99;c_restrict;c_variadic_macr/;"	v
+CMAKE_C_IGNORE_EXTENSIONS	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_C_IGNORE_EXTENSIONS h;H;o;O;obj;OBJ;def;DEF;rc;RC)$/;"	v
+CMAKE_C_IMPLICIT_INCLUDE_DIRECTORIES	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_C_IMPLICIT_INCLUDE_DIRECTORIES "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clan/;"	v
+CMAKE_C_IMPLICIT_LINK_DIRECTORIES	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_C_IMPLICIT_LINK_DIRECTORIES "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX12.1./;"	v
+CMAKE_C_IMPLICIT_LINK_FRAMEWORK_DIRECTORIES	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_C_IMPLICIT_LINK_FRAMEWORK_DIRECTORIES "\/Library\/Developer\/CommandLineTools\/SDKs\/M/;"	v
+CMAKE_C_IMPLICIT_LINK_LIBRARIES	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_C_IMPLICIT_LINK_LIBRARIES "")$/;"	v
+CMAKE_C_INCLUDE_REGEX_COMPLAIN	build/CMakeFiles/CMakeDirectoryInformation.cmake	/^set(CMAKE_C_INCLUDE_REGEX_COMPLAIN "^$")$/;"	v
+CMAKE_C_INCLUDE_REGEX_SCAN	build/CMakeFiles/CMakeDirectoryInformation.cmake	/^set(CMAKE_C_INCLUDE_REGEX_SCAN "^.*$")$/;"	v
+CMAKE_C_LIBRARY_ARCHITECTURE	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_C_LIBRARY_ARCHITECTURE "")$/;"	v
+CMAKE_C_LINKER_PREFERENCE	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_C_LINKER_PREFERENCE 10)$/;"	v
+CMAKE_C_PLATFORM_ID	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_C_PLATFORM_ID "Darwin")$/;"	v
+CMAKE_C_SIMULATE_ID	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_C_SIMULATE_ID "")$/;"	v
+CMAKE_C_SIMULATE_VERSION	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_C_SIMULATE_VERSION "")$/;"	v
+CMAKE_C_SIZEOF_DATA_PTR	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_C_SIZEOF_DATA_PTR "8")$/;"	v
+CMAKE_C_SOURCE_FILE_EXTENSIONS	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_C_SOURCE_FILE_EXTENSIONS c;m)$/;"	v
+CMAKE_C_STANDARD_COMPUTED_DEFAULT	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_C_STANDARD_COMPUTED_DEFAULT "17")$/;"	v
+CMAKE_DEPENDS_DEPENDENCY_FILES	build/CMakeFiles/demo_1.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_DEPENDENCY_FILES$/;"	v
+CMAKE_DEPENDS_DEPENDENCY_FILES	build/CMakeFiles/demo_2.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_DEPENDENCY_FILES$/;"	v
+CMAKE_DEPENDS_DEPENDENCY_FILES	build/CMakeFiles/demo_3.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_DEPENDENCY_FILES$/;"	v
+CMAKE_DEPENDS_DEPENDENCY_FILES	build/CMakeFiles/demo_4.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_DEPENDENCY_FILES$/;"	v
+CMAKE_DEPENDS_DEPENDENCY_FILES	build/CMakeFiles/demo_5.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_DEPENDENCY_FILES$/;"	v
+CMAKE_DEPENDS_DEPENDENCY_FILES	build/CMakeFiles/demo_6.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_DEPENDENCY_FILES$/;"	v
+CMAKE_DEPENDS_DEPENDENCY_FILES	build/CMakeFiles/examine_test_case.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_DEPENDENCY_FILES$/;"	v
+CMAKE_DEPENDS_DEPENDENCY_FILES	build/CMakeFiles/experiment.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_DEPENDENCY_FILES$/;"	v
+CMAKE_DEPENDS_DEPENDENCY_FILES	build/CMakeFiles/experiment2.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_DEPENDENCY_FILES$/;"	v
+CMAKE_DEPENDS_DEPENDENCY_FILES	build/CMakeFiles/test_dirtyarchieve.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_DEPENDENCY_FILES$/;"	v
+CMAKE_DEPENDS_DEPENDENCY_FILES	build/CMakeFiles/test_heuristic1_256.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_DEPENDENCY_FILES$/;"	v
+CMAKE_DEPENDS_DEPENDENCY_FILES	build/CMakeFiles/test_heuristic1_500.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_DEPENDENCY_FILES$/;"	v
+CMAKE_DEPENDS_DEPENDENCY_FILES	build/CMakeFiles/test_heuristic1_59.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_DEPENDENCY_FILES$/;"	v
+CMAKE_DEPENDS_DEPENDENCY_FILES	build/CMakeFiles/test_heuristic1_99.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_DEPENDENCY_FILES$/;"	v
+CMAKE_DEPENDS_DEPENDENCY_FILES	build/CMakeFiles/test_outter_routing.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_DEPENDENCY_FILES$/;"	v
+CMAKE_DEPENDS_DEPENDENCY_FILES	build/CMakeFiles/test_sample1.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_DEPENDENCY_FILES$/;"	v
+CMAKE_DEPENDS_GENERATOR	build/CMakeFiles/Makefile.cmake	/^set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")$/;"	v
+CMAKE_DEPENDS_IN_PROJECT_ONLY	build/CMakeFiles/demo_1.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)$/;"	v
+CMAKE_DEPENDS_IN_PROJECT_ONLY	build/CMakeFiles/demo_2.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)$/;"	v
+CMAKE_DEPENDS_IN_PROJECT_ONLY	build/CMakeFiles/demo_3.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)$/;"	v
+CMAKE_DEPENDS_IN_PROJECT_ONLY	build/CMakeFiles/demo_4.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)$/;"	v
+CMAKE_DEPENDS_IN_PROJECT_ONLY	build/CMakeFiles/demo_5.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)$/;"	v
+CMAKE_DEPENDS_IN_PROJECT_ONLY	build/CMakeFiles/demo_6.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)$/;"	v
+CMAKE_DEPENDS_IN_PROJECT_ONLY	build/CMakeFiles/examine_test_case.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)$/;"	v
+CMAKE_DEPENDS_IN_PROJECT_ONLY	build/CMakeFiles/experiment.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)$/;"	v
+CMAKE_DEPENDS_IN_PROJECT_ONLY	build/CMakeFiles/experiment2.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)$/;"	v
+CMAKE_DEPENDS_IN_PROJECT_ONLY	build/CMakeFiles/test_dirtyarchieve.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)$/;"	v
+CMAKE_DEPENDS_IN_PROJECT_ONLY	build/CMakeFiles/test_heuristic1_256.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)$/;"	v
+CMAKE_DEPENDS_IN_PROJECT_ONLY	build/CMakeFiles/test_heuristic1_500.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)$/;"	v
+CMAKE_DEPENDS_IN_PROJECT_ONLY	build/CMakeFiles/test_heuristic1_59.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)$/;"	v
+CMAKE_DEPENDS_IN_PROJECT_ONLY	build/CMakeFiles/test_heuristic1_99.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)$/;"	v
+CMAKE_DEPENDS_IN_PROJECT_ONLY	build/CMakeFiles/test_outter_routing.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)$/;"	v
+CMAKE_DEPENDS_IN_PROJECT_ONLY	build/CMakeFiles/test_sample1.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)$/;"	v
+CMAKE_DEPENDS_LANGUAGES	build/CMakeFiles/demo_1.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_LANGUAGES$/;"	v
+CMAKE_DEPENDS_LANGUAGES	build/CMakeFiles/demo_2.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_LANGUAGES$/;"	v
+CMAKE_DEPENDS_LANGUAGES	build/CMakeFiles/demo_3.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_LANGUAGES$/;"	v
+CMAKE_DEPENDS_LANGUAGES	build/CMakeFiles/demo_4.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_LANGUAGES$/;"	v
+CMAKE_DEPENDS_LANGUAGES	build/CMakeFiles/demo_5.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_LANGUAGES$/;"	v
+CMAKE_DEPENDS_LANGUAGES	build/CMakeFiles/demo_6.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_LANGUAGES$/;"	v
+CMAKE_DEPENDS_LANGUAGES	build/CMakeFiles/examine_test_case.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_LANGUAGES$/;"	v
+CMAKE_DEPENDS_LANGUAGES	build/CMakeFiles/experiment.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_LANGUAGES$/;"	v
+CMAKE_DEPENDS_LANGUAGES	build/CMakeFiles/experiment2.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_LANGUAGES$/;"	v
+CMAKE_DEPENDS_LANGUAGES	build/CMakeFiles/test_dirtyarchieve.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_LANGUAGES$/;"	v
+CMAKE_DEPENDS_LANGUAGES	build/CMakeFiles/test_heuristic1_256.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_LANGUAGES$/;"	v
+CMAKE_DEPENDS_LANGUAGES	build/CMakeFiles/test_heuristic1_500.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_LANGUAGES$/;"	v
+CMAKE_DEPENDS_LANGUAGES	build/CMakeFiles/test_heuristic1_59.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_LANGUAGES$/;"	v
+CMAKE_DEPENDS_LANGUAGES	build/CMakeFiles/test_heuristic1_99.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_LANGUAGES$/;"	v
+CMAKE_DEPENDS_LANGUAGES	build/CMakeFiles/test_outter_routing.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_LANGUAGES$/;"	v
+CMAKE_DEPENDS_LANGUAGES	build/CMakeFiles/test_sample1.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_LANGUAGES$/;"	v
+CMAKE_DEPEND_INFO_FILES	build/CMakeFiles/Makefile.cmake	/^set(CMAKE_DEPEND_INFO_FILES$/;"	v
+CMAKE_FORCE_UNIX_PATHS	build/CMakeFiles/CMakeDirectoryInformation.cmake	/^set(CMAKE_FORCE_UNIX_PATHS 1)$/;"	v
+CMAKE_Fortran_TARGET_MODULE_DIR	build/CMakeFiles/demo_1.dir/DependInfo.cmake	/^set(CMAKE_Fortran_TARGET_MODULE_DIR "")$/;"	v
+CMAKE_Fortran_TARGET_MODULE_DIR	build/CMakeFiles/demo_2.dir/DependInfo.cmake	/^set(CMAKE_Fortran_TARGET_MODULE_DIR "")$/;"	v
+CMAKE_Fortran_TARGET_MODULE_DIR	build/CMakeFiles/demo_3.dir/DependInfo.cmake	/^set(CMAKE_Fortran_TARGET_MODULE_DIR "")$/;"	v
+CMAKE_Fortran_TARGET_MODULE_DIR	build/CMakeFiles/demo_4.dir/DependInfo.cmake	/^set(CMAKE_Fortran_TARGET_MODULE_DIR "")$/;"	v
+CMAKE_Fortran_TARGET_MODULE_DIR	build/CMakeFiles/demo_5.dir/DependInfo.cmake	/^set(CMAKE_Fortran_TARGET_MODULE_DIR "")$/;"	v
+CMAKE_Fortran_TARGET_MODULE_DIR	build/CMakeFiles/demo_6.dir/DependInfo.cmake	/^set(CMAKE_Fortran_TARGET_MODULE_DIR "")$/;"	v
+CMAKE_Fortran_TARGET_MODULE_DIR	build/CMakeFiles/examine_test_case.dir/DependInfo.cmake	/^set(CMAKE_Fortran_TARGET_MODULE_DIR "")$/;"	v
+CMAKE_Fortran_TARGET_MODULE_DIR	build/CMakeFiles/experiment.dir/DependInfo.cmake	/^set(CMAKE_Fortran_TARGET_MODULE_DIR "")$/;"	v
+CMAKE_Fortran_TARGET_MODULE_DIR	build/CMakeFiles/experiment2.dir/DependInfo.cmake	/^set(CMAKE_Fortran_TARGET_MODULE_DIR "")$/;"	v
+CMAKE_Fortran_TARGET_MODULE_DIR	build/CMakeFiles/test_dirtyarchieve.dir/DependInfo.cmake	/^set(CMAKE_Fortran_TARGET_MODULE_DIR "")$/;"	v
+CMAKE_Fortran_TARGET_MODULE_DIR	build/CMakeFiles/test_heuristic1_256.dir/DependInfo.cmake	/^set(CMAKE_Fortran_TARGET_MODULE_DIR "")$/;"	v
+CMAKE_Fortran_TARGET_MODULE_DIR	build/CMakeFiles/test_heuristic1_500.dir/DependInfo.cmake	/^set(CMAKE_Fortran_TARGET_MODULE_DIR "")$/;"	v
+CMAKE_Fortran_TARGET_MODULE_DIR	build/CMakeFiles/test_heuristic1_59.dir/DependInfo.cmake	/^set(CMAKE_Fortran_TARGET_MODULE_DIR "")$/;"	v
+CMAKE_Fortran_TARGET_MODULE_DIR	build/CMakeFiles/test_heuristic1_99.dir/DependInfo.cmake	/^set(CMAKE_Fortran_TARGET_MODULE_DIR "")$/;"	v
+CMAKE_Fortran_TARGET_MODULE_DIR	build/CMakeFiles/test_outter_routing.dir/DependInfo.cmake	/^set(CMAKE_Fortran_TARGET_MODULE_DIR "")$/;"	v
+CMAKE_Fortran_TARGET_MODULE_DIR	build/CMakeFiles/test_sample1.dir/DependInfo.cmake	/^set(CMAKE_Fortran_TARGET_MODULE_DIR "")$/;"	v
+CMAKE_HOST_SYSTEM	build/CMakeFiles/3.21.2/CMakeSystem.cmake	/^set(CMAKE_HOST_SYSTEM "Darwin-21.3.0")$/;"	v
+CMAKE_HOST_SYSTEM_NAME	build/CMakeFiles/3.21.2/CMakeSystem.cmake	/^set(CMAKE_HOST_SYSTEM_NAME "Darwin")$/;"	v
+CMAKE_HOST_SYSTEM_PROCESSOR	build/CMakeFiles/3.21.2/CMakeSystem.cmake	/^set(CMAKE_HOST_SYSTEM_PROCESSOR "arm64")$/;"	v
+CMAKE_HOST_SYSTEM_VERSION	build/CMakeFiles/3.21.2/CMakeSystem.cmake	/^set(CMAKE_HOST_SYSTEM_VERSION "21.3.0")$/;"	v
+CMAKE_INSTALL_COMPONENT	build/cmake_install.cmake	/^    set(CMAKE_INSTALL_COMPONENT "${COMPONENT}")$/;"	v
+CMAKE_INSTALL_COMPONENT	build/cmake_install.cmake	/^    set(CMAKE_INSTALL_COMPONENT)$/;"	v
+CMAKE_INSTALL_CONFIG_NAME	build/cmake_install.cmake	/^    set(CMAKE_INSTALL_CONFIG_NAME "")$/;"	v
+CMAKE_INSTALL_MANIFEST	build/cmake_install.cmake	/^  set(CMAKE_INSTALL_MANIFEST "install_manifest.txt")$/;"	v
+CMAKE_INSTALL_MANIFEST	build/cmake_install.cmake	/^  set(CMAKE_INSTALL_MANIFEST "install_manifest_${CMAKE_INSTALL_COMPONENT}.txt")$/;"	v
+CMAKE_INSTALL_PREFIX	build/cmake_install.cmake	/^  set(CMAKE_INSTALL_PREFIX "\/usr\/local")$/;"	v
+CMAKE_INTERNAL_PLATFORM_ABI	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^  set(CMAKE_INTERNAL_PLATFORM_ABI "${CMAKE_C_COMPILER_ABI}")$/;"	v
+CMAKE_INTERNAL_PLATFORM_ABI	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^  set(CMAKE_INTERNAL_PLATFORM_ABI "${CMAKE_CXX_COMPILER_ABI}")$/;"	v
+CMAKE_LIBRARY_ARCHITECTURE	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^  set(CMAKE_LIBRARY_ARCHITECTURE "")$/;"	v
+CMAKE_LIBRARY_ARCHITECTURE	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^  set(CMAKE_LIBRARY_ARCHITECTURE "")$/;"	v
+CMAKE_LINKER	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_LINKER "\/Library\/Developer\/CommandLineTools\/usr\/bin\/ld")$/;"	v
+CMAKE_LINKER	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_LINKER "\/Library\/Developer\/CommandLineTools\/usr\/bin\/ld")$/;"	v
+CMAKE_MAKEFILE_DEPENDS	build/CMakeFiles/Makefile.cmake	/^set(CMAKE_MAKEFILE_DEPENDS$/;"	v
+CMAKE_MAKEFILE_OUTPUTS	build/CMakeFiles/Makefile.cmake	/^set(CMAKE_MAKEFILE_OUTPUTS$/;"	v
+CMAKE_MAKEFILE_PRODUCTS	build/CMakeFiles/Makefile.cmake	/^set(CMAKE_MAKEFILE_PRODUCTS$/;"	v
+CMAKE_MT	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_MT "")$/;"	v
+CMAKE_MT	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_MT "")$/;"	v
+CMAKE_OBJDUMP	build/cmake_install.cmake	/^  set(CMAKE_OBJDUMP "\/Library\/Developer\/CommandLineTools\/usr\/bin\/objdump")$/;"	v
+CMAKE_RANLIB	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^set(CMAKE_RANLIB "\/Library\/Developer\/CommandLineTools\/usr\/bin\/ranlib")$/;"	v
+CMAKE_RANLIB	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^set(CMAKE_RANLIB "\/Library\/Developer\/CommandLineTools\/usr\/bin\/ranlib")$/;"	v
+CMAKE_RELATIVE_PATH_TOP_BINARY	build/CMakeFiles/CMakeDirectoryInformation.cmake	/^set(CMAKE_RELATIVE_PATH_TOP_BINARY "\/Users\/shiehyuehchang\/C++Projects\/tadpole\/build")$/;"	v
+CMAKE_RELATIVE_PATH_TOP_SOURCE	build/CMakeFiles/CMakeDirectoryInformation.cmake	/^set(CMAKE_RELATIVE_PATH_TOP_SOURCE "\/Users\/shiehyuehchang\/C++Projects\/tadpole")$/;"	v
+CMAKE_RUNTIME_OUTPUT_DIRECTORY	CMakeLists.txt	/^set( CMAKE_RUNTIME_OUTPUT_DIRECTORY ${PROJECT_SOURCE_DIR}\/bin )				# Setting the output directo/;"	v
+CMAKE_SIZEOF_VOID_P	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^  set(CMAKE_SIZEOF_VOID_P "${CMAKE_C_SIZEOF_DATA_PTR}")$/;"	v
+CMAKE_SIZEOF_VOID_P	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^  set(CMAKE_SIZEOF_VOID_P "${CMAKE_CXX_SIZEOF_DATA_PTR}")$/;"	v
+CMAKE_SOURCE_DIR	build/Makefile	/^CMAKE_SOURCE_DIR = \/Users\/shiehyuehchang\/C++Projects\/tadpole$/;"	m
+CMAKE_SYSTEM	build/CMakeFiles/3.21.2/CMakeSystem.cmake	/^set(CMAKE_SYSTEM "Darwin-21.3.0")$/;"	v
+CMAKE_SYSTEM_LOADED	build/CMakeFiles/3.21.2/CMakeSystem.cmake	/^set(CMAKE_SYSTEM_LOADED 1)$/;"	v
+CMAKE_SYSTEM_NAME	build/CMakeFiles/3.21.2/CMakeSystem.cmake	/^set(CMAKE_SYSTEM_NAME "Darwin")$/;"	v
+CMAKE_SYSTEM_PROCESSOR	build/CMakeFiles/3.21.2/CMakeSystem.cmake	/^set(CMAKE_SYSTEM_PROCESSOR "arm64")$/;"	v
+CMAKE_SYSTEM_VERSION	build/CMakeFiles/3.21.2/CMakeSystem.cmake	/^set(CMAKE_SYSTEM_VERSION "21.3.0")$/;"	v
+CMAKE_TARGET_LINKED_INFO_FILES	build/CMakeFiles/demo_1.dir/DependInfo.cmake	/^set(CMAKE_TARGET_LINKED_INFO_FILES$/;"	v
+CMAKE_TARGET_LINKED_INFO_FILES	build/CMakeFiles/demo_2.dir/DependInfo.cmake	/^set(CMAKE_TARGET_LINKED_INFO_FILES$/;"	v
+CMAKE_TARGET_LINKED_INFO_FILES	build/CMakeFiles/demo_3.dir/DependInfo.cmake	/^set(CMAKE_TARGET_LINKED_INFO_FILES$/;"	v
+CMAKE_TARGET_LINKED_INFO_FILES	build/CMakeFiles/demo_4.dir/DependInfo.cmake	/^set(CMAKE_TARGET_LINKED_INFO_FILES$/;"	v
+CMAKE_TARGET_LINKED_INFO_FILES	build/CMakeFiles/demo_5.dir/DependInfo.cmake	/^set(CMAKE_TARGET_LINKED_INFO_FILES$/;"	v
+CMAKE_TARGET_LINKED_INFO_FILES	build/CMakeFiles/demo_6.dir/DependInfo.cmake	/^set(CMAKE_TARGET_LINKED_INFO_FILES$/;"	v
+CMAKE_TARGET_LINKED_INFO_FILES	build/CMakeFiles/examine_test_case.dir/DependInfo.cmake	/^set(CMAKE_TARGET_LINKED_INFO_FILES$/;"	v
+CMAKE_TARGET_LINKED_INFO_FILES	build/CMakeFiles/experiment.dir/DependInfo.cmake	/^set(CMAKE_TARGET_LINKED_INFO_FILES$/;"	v
+CMAKE_TARGET_LINKED_INFO_FILES	build/CMakeFiles/experiment2.dir/DependInfo.cmake	/^set(CMAKE_TARGET_LINKED_INFO_FILES$/;"	v
+CMAKE_TARGET_LINKED_INFO_FILES	build/CMakeFiles/test_dirtyarchieve.dir/DependInfo.cmake	/^set(CMAKE_TARGET_LINKED_INFO_FILES$/;"	v
+CMAKE_TARGET_LINKED_INFO_FILES	build/CMakeFiles/test_heuristic1_256.dir/DependInfo.cmake	/^set(CMAKE_TARGET_LINKED_INFO_FILES$/;"	v
+CMAKE_TARGET_LINKED_INFO_FILES	build/CMakeFiles/test_heuristic1_500.dir/DependInfo.cmake	/^set(CMAKE_TARGET_LINKED_INFO_FILES$/;"	v
+CMAKE_TARGET_LINKED_INFO_FILES	build/CMakeFiles/test_heuristic1_59.dir/DependInfo.cmake	/^set(CMAKE_TARGET_LINKED_INFO_FILES$/;"	v
+CMAKE_TARGET_LINKED_INFO_FILES	build/CMakeFiles/test_heuristic1_99.dir/DependInfo.cmake	/^set(CMAKE_TARGET_LINKED_INFO_FILES$/;"	v
+CMAKE_TARGET_LINKED_INFO_FILES	build/CMakeFiles/test_outter_routing.dir/DependInfo.cmake	/^set(CMAKE_TARGET_LINKED_INFO_FILES$/;"	v
+CMAKE_TARGET_LINKED_INFO_FILES	build/CMakeFiles/test_sample1.dir/DependInfo.cmake	/^set(CMAKE_TARGET_LINKED_INFO_FILES$/;"	v
+COMPILER_ID	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_ID /;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_ID /;"	d	file:
+COMPILER_VERSION	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^#   define COMPILER_VERSION /;"	d	file:
+COMPILER_VERSION	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define COMPILER_VERSION /;"	d	file:
+COMPILER_VERSION_INTERNAL	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^#   define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL_STR	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_INTERNAL_STR /;"	d	file:
+COMPILER_VERSION_INTERNAL_STR	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_INTERNAL_STR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^#   define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^#   define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^#   define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_TWEAK /;"	d	file:
+CXX_STD	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#      define CXX_STD /;"	d	file:
+CXX_STD	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#    define CXX_STD /;"	d	file:
+CXX_STD	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define CXX_STD /;"	d	file:
+CYGWIN	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^  set(CYGWIN 1)$/;"	v
+CYGWIN	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^  set(CYGWIN 1)$/;"	v
+C_DIALECT	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^#  define C_DIALECT /;"	d	file:
+C_DIALECT	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^#  define C_DIALECT$/;"	d	file:
+C_DIALECT	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^# define C_DIALECT /;"	d	file:
+CoordinateType	src/examine_test_case.cpp	/^using CoordinateType        = double; $/;"	t	typeref:typename:double	file:
+D	inc/topology.h	/^            DestOrder               D;          \/\/ UTIL:    dest_order$/;"	m	struct:syc::topology::v_02::detail::compute_dest_ordering_and_cross_number	typeref:typename:DestOrder
+D	inc/topology.h	/^            DestOrder               D;          \/\/ UTIL:    dest_order$/;"	m	struct:syc::topology::v_02::detail::compute_dest_ordering_and_cross_number2	typeref:typename:DestOrder
+D	inc/topology.h	/^            DestOrder               D;          \/\/ UTIL:    dest_order$/;"	m	struct:syc::topology::v_03::detail::compute_dest_ordering_and_cross_number2	typeref:typename:DestOrder
+D	inc/topology.h	/^            DestOrder&      D;$/;"	m	struct:syc::topology::v_02::detail::determine_net_priority_and_copmute_dest_ordering	typeref:typename:DestOrder &
+D	inc/topology.h	/^            DestOrder&      D;$/;"	m	struct:syc::topology::v_03::detail::compute_net_priority_and_dest_ordering	typeref:typename:DestOrder &
+D	inc/topology.h	/^            DestOrder&      D;$/;"	m	struct:syc::topology::v_03::detail::determine_net_priority_and_copmute_dest_ordering	typeref:typename:DestOrder &
+DE	inc/topology.h	/^        using   DE          = std::tuple<unsigned, unsigned, double>;$/;"	t	function:syc::topology::v_03::planar_orderd_forest_solution::find_MST_by_A_star_heu_distance	typeref:typename:std::tuple<unsigned,unsigned,double>
+DE	inc/topology.h	/^        using   DE          = std::tuple<unsigned, unsigned, double>;$/;"	t	function:syc::topology::v_03::planar_orderd_forest_solution::find_MST_by_target_dist_from_root	typeref:typename:std::tuple<unsigned,unsigned,double>
+DEC	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^#define DEC(/;"	d	file:
+DEC	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define DEC(/;"	d	file:
+DestOrder	inc/topology.h	/^            using DestOrder = std::vector< std::pair< int, std::size_t > >;$/;"	t	struct:syc::topology::v_02::detail::compute_dest_ordering_and_cross_number	typeref:typename:std::vector<std::pair<int,std::size_t>>
+DestOrder	inc/topology.h	/^            using DestOrder = std::vector< std::pair< int, std::size_t > >;$/;"	t	struct:syc::topology::v_02::detail::compute_dest_ordering_and_cross_number2	typeref:typename:std::vector<std::pair<int,std::size_t>>
+DestOrder	inc/topology.h	/^            using DestOrder = std::vector< std::pair< int, std::size_t > >;$/;"	t	struct:syc::topology::v_03::detail::compute_dest_ordering_and_cross_number2	typeref:typename:std::vector<std::pair<int,std::size_t>>
+EQUALS	build/Makefile	/^EQUALS = =$/;"	m
+EdgeIndxMap	inc/topology.h	/^			using EdgeIndxMap	= typename boost::property_map<delaunay_triangulation_graph_type, boost::ed/;"	t	function:syc::topology::model::v_01::topology_sketch_type::construct_sketchable_forest	typeref:typename:boost::property_map<delaunay_triangulation_graph_type,boost::edge_index_t>::type
+HEX	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^#define HEX(/;"	d	file:
+HEX	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define HEX(/;"	d	file:
+I	inc/topology.h	/^				EdgeIndexMap I;$/;"	m	struct:syc::topology::detail::v_01::is_MST_edge	typeref:typename:EdgeIndexMap
+I	inc/topology.h	/^				EdgeIndexMap I;$/;"	m	struct:syc::topology::v_02::detail::is_MST_edge	typeref:typename:EdgeIndexMap
+I	inc/topology.h	/^				EdgeIndexMap I;$/;"	m	struct:syc::topology::v_02::detail::is_boundary_edge	typeref:typename:EdgeIndexMap
+I	inc/topology.h	/^				EdgeIndexMap I;$/;"	m	struct:syc::topology::v_02::detail::is_net_edge	typeref:typename:EdgeIndexMap
+I	inc/topology.h	/^				EdgeIndexMap I;$/;"	m	struct:syc::topology::v_02::detail::is_triangulation_edge	typeref:typename:EdgeIndexMap
+I	inc/topology.h	/^				EdgeIndexMap I;$/;"	m	struct:syc::topology::v_03::detail::is_MST_edge	typeref:typename:EdgeIndexMap
+I	inc/topology.h	/^				EdgeIndexMap I;$/;"	m	struct:syc::topology::v_03::detail::is_boundary_edge	typeref:typename:EdgeIndexMap
+I	inc/topology.h	/^				EdgeIndexMap I;$/;"	m	struct:syc::topology::v_03::detail::is_net_edge	typeref:typename:EdgeIndexMap
+I	inc/topology.h	/^				EdgeIndexMap I;$/;"	m	struct:syc::topology::v_03::detail::is_triangulation_edge	typeref:typename:EdgeIndexMap
+ID_VOID_MAIN	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^# define ID_VOID_MAIN$/;"	d	file:
+MINGW	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^  set(MINGW 1)$/;"	v
+MINGW	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^  set(MINGW 1)$/;"	v
+MST_Policy	src/experiment2.cpp	/^namespace MST_Policy$/;"	n	file:
+N	inc/topology.h	/^            Net             N;$/;"	m	struct:syc::topology::v_02::detail::determine_net_priority_and_copmute_dest_ordering	typeref:typename:Net
+N	inc/topology.h	/^            Net             N;$/;"	m	struct:syc::topology::v_03::detail::compute_net_priority_and_dest_ordering	typeref:typename:Net
+N	inc/topology.h	/^            Net             N;$/;"	m	struct:syc::topology::v_03::detail::determine_net_priority_and_copmute_dest_ordering	typeref:typename:Net
+N	inc/topology.h	/^            Net const&              N;          \/\/ IN:      nets$/;"	m	struct:syc::topology::v_02::detail::compute_dest_ordering_and_cross_number	typeref:typename:Net const &
+N	inc/topology.h	/^            Net const&              N;          \/\/ IN:      nets$/;"	m	struct:syc::topology::v_02::detail::compute_dest_ordering_and_cross_number2	typeref:typename:Net const &
+N	inc/topology.h	/^            Net const&              N;          \/\/ IN:      nets$/;"	m	struct:syc::topology::v_03::detail::compute_dest_ordering_and_cross_number2	typeref:typename:Net const &
+NetSeq	inc/topology.h	/^        using NetSeq            = std::vector< detail::net_type< CoordinateType > >;$/;"	t	class:syc::topology::v_03::package_data	typeref:typename:std::vector<detail::net_type<CoordinateType>>
+NetSeq	inc/topology.h	/^        using NetSeq = std::vector< detail::net_type< CoordinateType > >;$/;"	t	class:syc::topology::v_02::package_data	typeref:typename:std::vector<detail::net_type<CoordinateType>>
+PLATFORM_ID	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^#  define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^#  define PLATFORM_ID$/;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^# define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^# define PLATFORM_ID$/;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define PLATFORM_ID$/;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define PLATFORM_ID$/;"	d	file:
+PointType	src/examine_test_case.cpp	/^using PointType			    = boost::polygon::point_data<CoordinateType>;$/;"	t	typeref:typename:boost::polygon::point_data<CoordinateType>	file:
+R	inc/topology.h	/^            int                     R;          \/\/ UTIL:    current root$/;"	m	struct:syc::topology::v_02::detail::compute_dest_ordering_and_cross_number	typeref:typename:int
+R	inc/topology.h	/^            int                     R;          \/\/ UTIL:    current root$/;"	m	struct:syc::topology::v_02::detail::compute_dest_ordering_and_cross_number2	typeref:typename:int
+R	inc/topology.h	/^            int                     R;          \/\/ UTIL:    current root$/;"	m	struct:syc::topology::v_03::detail::compute_dest_ordering_and_cross_number2	typeref:typename:int
+R	inc/topology.h	/^            int             R;      \/\/ current root$/;"	m	struct:syc::topology::v_02::detail::determine_net_priority_and_copmute_dest_ordering	typeref:typename:int
+R	inc/topology.h	/^            int             R;      \/\/ current root$/;"	m	struct:syc::topology::v_03::detail::compute_net_priority_and_dest_ordering	typeref:typename:int
+R	inc/topology.h	/^            int             R;      \/\/ current root$/;"	m	struct:syc::topology::v_03::detail::determine_net_priority_and_copmute_dest_ordering	typeref:typename:int
+RM	build/Makefile	/^RM = \/opt\/homebrew\/Cellar\/cmake\/3.21.2\/bin\/cmake -E rm -f$/;"	m
+Random_Test_59	src/experiment.cpp	/^void Random_Test_59( void )$/;"	f	typeref:typename:void
+Routing_Policy	src/experiment2.cpp	/^namespace Routing_Policy$/;"	n	file:
+S	inc/topology.h	/^            SortingStack            S;          \/\/ UTIL:    sort to compute cross number$/;"	m	struct:syc::topology::v_02::detail::compute_dest_ordering_and_cross_number	typeref:typename:SortingStack
+S	inc/topology.h	/^            SortingStack            S;          \/\/ UTIL:    sort to compute cross number$/;"	m	struct:syc::topology::v_02::detail::compute_dest_ordering_and_cross_number2	typeref:typename:SortingStack
+S	inc/topology.h	/^            SortingStack            S;          \/\/ UTIL:    sort to compute cross number$/;"	m	struct:syc::topology::v_03::detail::compute_dest_ordering_and_cross_number2	typeref:typename:SortingStack
+SA	inc/simulated_anealing.h	/^	namespace SA::v_01 {$/;"	n	namespace:syc
+SA	src/test_dirtyarchieve.cpp	/^syc::topology::v_02::planar_orderd_forest_solution<double> SA( syc::topology::v_02::planar_order/;"	f	typeref:typename:syc::topology::v_02::planar_orderd_forest_solution<double>
+SHELL	build/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SIMULATE_ID	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_ID /;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^# define SIMULATE_ID /;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_ID /;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define SIMULATE_ID /;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^# define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^# define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_PATCH	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_VERSION_PATCH /;"	d	file:
+SIMULATE_VERSION_PATCH	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^# define SIMULATE_VERSION_PATCH /;"	d	file:
+SIMULATE_VERSION_PATCH	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_PATCH /;"	d	file:
+SIMULATE_VERSION_PATCH	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define SIMULATE_VERSION_PATCH /;"	d	file:
+STRINGIFY	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^#define STRINGIFY(/;"	d	file:
+STRINGIFY	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define STRINGIFY(/;"	d	file:
+STRINGIFY_HELPER	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^#define STRINGIFY_HELPER(/;"	d	file:
+STRINGIFY_HELPER	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define STRINGIFY_HELPER(/;"	d	file:
+SegmentType	inc/topology.h	/^        using SegmentType = boost::geometry::model::segment< PointType >;$/;"	t	function:syc::topology::v_03::package_data::proj_to_bdry	typeref:typename:boost::geometry::model::segment<PointType>
+Sol	src/test_dirtyarchieve.cpp	/^	using Sol			= syc::topology::v_02::planar_orderd_forest_solution<double>;$/;"	t	function:randomly_generate_a_case	typeref:typename:syc::topology::v_02::planar_orderd_forest_solution<double>	file:
+SortingStack	inc/topology.h	/^            using SortingStack = std::vector< std::list< std::size_t > >;$/;"	t	struct:syc::topology::v_02::detail::compute_dest_ordering_and_cross_number	typeref:typename:std::vector<std::list<std::size_t>>
+SortingStack	inc/topology.h	/^            using SortingStack = std::vector< std::list< std::size_t > >;$/;"	t	struct:syc::topology::v_02::detail::compute_dest_ordering_and_cross_number2	typeref:typename:std::vector<std::list<std::size_t>>
+SortingStack	inc/topology.h	/^            using SortingStack = std::vector< std::list< std::size_t > >;$/;"	t	struct:syc::topology::v_03::detail::compute_dest_ordering_and_cross_number2	typeref:typename:std::vector<std::list<std::size_t>>
+T	inc/topology.h	/^            using T = std::vector<std::vector<std::size_t>>;$/;"	t	struct:syc::topology::v_03::detail::compute_net_priority_and_dest_ordering	typeref:typename:std::vector<std::vector<std::size_t>>
+Test	src/experiment2.cpp	/^namespace Test$/;"	n	file:
+Test_256	src/experiment.cpp	/^void Test_256( void )$/;"	f	typeref:typename:void
+Test_59	src/experiment.cpp	/^void Test_59( void )$/;"	f	typeref:typename:void
+Test_99	src/experiment.cpp	/^void Test_99( void )$/;"	f	typeref:typename:void
+UNIX	build/CMakeFiles/3.21.2/CMakeCCompiler.cmake	/^  set(UNIX 1)$/;"	v
+UNIX	build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake	/^  set(UNIX 1)$/;"	v
+VoronoiDiagramType	src/examine_test_case.cpp	/^using VoronoiDiagramType    = boost::polygon::voronoi_diagram<CoordinateType>;$/;"	t	typeref:typename:boost::polygon::voronoi_diagram<CoordinateType>	file:
+_Att	inc/topology.h	/^					enum _Att		{ tree_side_of_an_edge = 0, back_side_of_an_edge = 1, vertex = 2 };$/;"	g	class:syc::topology::model::v_01::sketchable_forest
+_BOOST_POLYGON_GEOMETRY_CONCEPT_POINT_XY	inc/topology.h	/^#define _BOOST_POLYGON_GEOMETRY_CONCEPT_POINT_XY$/;"	d
+_BOOST_POLYGON_POINT_TRAITS_POINT_XY	inc/topology.h	/^#define _BOOST_POLYGON_POINT_TRAITS_POINT_XY$/;"	d
+_DTG	inc/topology.h	/^				delaunay_triangulation_graph_type		_DTG;$/;"	m	class:syc::topology::model::v_01::topology_sketch_type	typeref:typename:delaunay_triangulation_graph_type
+_DTG	inc/topology.h	/^				delaunay_triangulation_graph_type&	_DTG;$/;"	m	class:syc::topology::detail::v_01::build_sketchable_forest	typeref:typename:delaunay_triangulation_graph_type &
+_F	inc/topology.h	/^				sketable_forest&		 	_F; $/;"	m	class:syc::topology::detail::v_01::initialize_topology	typeref:typename:sketable_forest &
+_F	inc/topology.h	/^				sketable_forest& _F; $/;"	m	class:syc::topology::detail::v_01::compute_dest	typeref:typename:sketable_forest &
+_GNUGRAPH_H	inc/gnugraph.h	/^#define _GNUGRAPH_H$/;"	d
+_SF	inc/topology.h	/^				sketable_forest&					_SF;$/;"	m	class:syc::topology::detail::v_01::build_sketchable_forest	typeref:typename:sketable_forest &
+_SF	inc/topology.h	/^				sketable_forest&    _SF;$/;"	m	class:syc::topology::v_02::detail::build_sketchable_forest	typeref:typename:sketable_forest &
+_SF	inc/topology.h	/^				sketable_forest& _SF;$/;"	m	class:syc::topology::v_03::detail::build_sketchable_forest	typeref:typename:sketable_forest &
+_SF	inc/topology.h	/^				sketchable_forest_type					_SF;			\/\/ For now, net is embeded in the forest. UGLY SYNTAX!!$/;"	m	class:syc::topology::model::v_01::topology_sketch_type	typeref:typename:sketchable_forest_type
+_SIMULATED_ANEALING_H	inc/simulated_anealing.h	/^#define _SIMULATED_ANEALING_H$/;"	d
+_SYC_CIRCULARFRAME_H	inc/circular_frame.h	/^#define _SYC_CIRCULARFRAME_H$/;"	d
+_SYC_TOPOLOGY_H	inc/topology.h	/^#define _SYC_TOPOLOGY_H$/;"	d
+_SliceDir	inc/topology.h	/^					enum _SliceDir	{ downward = 0, upward = 1 };$/;"	g	class:syc::topology::model::v_01::sketchable_forest
+_VD	inc/topology.h	/^				voronoi_diagram_type					_VD;$/;"	m	class:syc::topology::model::v_01::topology_sketch_type	typeref:typename:voronoi_diagram_type
+__anon9a9fbb2e0102	src/experiment.cpp	/^        {$/;"	f	function:Test_256	file:
+__anonace3d97f0102	src/test_dirtyarchieve.cpp	/^    {$/;"	f	function:topology_test_5	file:
+__anonace3d97f0202	src/test_dirtyarchieve.cpp	/^    {$/;"	f	function:topology_test_5	file:
+__anonace3d97f0302	src/test_dirtyarchieve.cpp	/^    {$/;"	f	function:topology_test_5	file:
+__anonace3d97f0402	src/test_dirtyarchieve.cpp	/^    {$/;"	f	function:topology_test_5	file:
+__anonace3d97f0502	src/test_dirtyarchieve.cpp	/^            {$/;"	f	function:topology_test_5::__anonace3d97f0402	file:
+__anonace3d97f0602	src/test_dirtyarchieve.cpp	/^            {$/;"	f	function:topology_test_5::__anonace3d97f0402	file:
+__anonace3d97f0702	src/test_dirtyarchieve.cpp	/^            {$/;"	f	function:topology_test_5::__anonace3d97f0402	file:
+__anonace3d97f0802	src/test_dirtyarchieve.cpp	/^        {$/;"	f	function:topology_test_6	file:
+__anonace3d97f0902	src/test_dirtyarchieve.cpp	/^        {$/;"	f	function:topology_test_6	file:
+__anonace3d97f0a02	src/test_dirtyarchieve.cpp	/^        {$/;"	f	function:topology_test_6	file:
+__anonace3d97f0b02	src/test_dirtyarchieve.cpp	/^    {$/;"	f	function:topology_test_7	file:
+__anonace3d97f0c02	src/test_dirtyarchieve.cpp	/^            {$/;"	f	function:topology_test_7::__anonace3d97f0b02	file:
+__anonace3d97f0d02	src/test_dirtyarchieve.cpp	/^            {$/;"	f	function:topology_test_7::__anonace3d97f0b02	file:
+__anonace3d97f0e02	src/test_dirtyarchieve.cpp	/^    {$/;"	f	function:SA	file:
+__anonace3d97f0f02	src/test_dirtyarchieve.cpp	/^    {$/;"	f	function:SA	file:
+__anonace3d97f1002	src/test_dirtyarchieve.cpp	/^    {$/;"	f	function:SA	file:
+__anonace3d97f1102	src/test_dirtyarchieve.cpp	/^    {$/;"	f	function:topology_test_8	file:
+__anonace3d97f1202	src/test_dirtyarchieve.cpp	/^        {$/;"	f	function:topology_test_8::__anonace3d97f1102	file:
+__anonace3d97f1302	src/test_dirtyarchieve.cpp	/^                {$/;"	f	function:topology_test_8::__anonace3d97f1102::__anonace3d97f1202	file:
+__anonace3d97f1402	src/test_dirtyarchieve.cpp	/^                {$/;"	f	function:topology_test_8::__anonace3d97f1102::__anonace3d97f1202	file:
+__anonace3d97f1502	src/test_dirtyarchieve.cpp	/^        {$/;"	f	function:topology_test_8::__anonace3d97f1102	file:
+__anonace3d97f1602	src/test_dirtyarchieve.cpp	/^                {$/;"	f	function:topology_test_8::__anonace3d97f1102::__anonace3d97f1502	file:
+__anond70233e10102	src/test_heuristic1_500.cpp	/^        {$/;"	f	function:sort_by_net_name_529	file:
+__anonebcb78f60102	src/test_outter_routing.cpp	/^        {$/;"	f	function:sort_by_net_name_256	file:
+__anonf6c29a210102	inc/topology.h	/^				auto add_edge_for_target = [&]() -> void {$/;"	f	function:syc::topology::model::v_01::sketchable_forest::make_slice	typeref:typename:void	file:
+__anonf6c29a210202	inc/topology.h	/^				auto add_edge_for_source = [&]() -> void {$/;"	f	function:syc::topology::model::v_01::sketchable_forest::make_slice	typeref:typename:void	file:
+__anonf6c29a210302	inc/topology.h	/^				auto splice_to_new_slice = [&]() -> void {$/;"	f	function:syc::topology::model::v_01::sketchable_forest::make_slice	typeref:typename:void	file:
+__anonf6c29a210402	inc/topology.h	/^				auto splice_to_prev_slice = [&]() -> void {$/;"	f	function:syc::topology::model::v_01::sketchable_forest::free_slice	typeref:typename:void	file:
+__anonf6c29a210502	inc/topology.h	/^				auto erase_edge_for_target = [&]() -> void {$/;"	f	function:syc::topology::model::v_01::sketchable_forest::free_slice	typeref:typename:void	file:
+__anonf6c29a210602	inc/topology.h	/^				auto erase_edge_for_source = [&]() -> void {$/;"	f	function:syc::topology::model::v_01::sketchable_forest::free_slice	typeref:typename:void	file:
+__anonf6c29a210702	inc/topology.h	/^			auto South 	= [&]( slice_type const& s1, slice_type const& s2 )-> bool {$/;"	f	function:syc::topology::model::v_01::sketchable_forest::make_slice_hierarchy	typeref:typename:bool	file:
+__anonf6c29a210802	inc/topology.h	/^			auto North 	= [&]( slice_type const& s1, slice_type const& s2 )-> bool {$/;"	f	function:syc::topology::model::v_01::sketchable_forest::make_slice_hierarchy	typeref:typename:bool	file:
+__anonf6c29a210902	inc/topology.h	/^			auto East 	= [&]( slice_type const& s1, slice_type const& s2 )-> bool {$/;"	f	function:syc::topology::model::v_01::sketchable_forest::make_slice_hierarchy	typeref:typename:bool	file:
+__anonf6c29a210a02	inc/topology.h	/^			auto f = [&]( unsigned r ) -> unsigned { return (_num_roots \/ 2 - x + r + _num_roots) % _num/;"	f	function:syc::topology::model::v_01::topology_sketch_type::search	typeref:typename:unsigned	file:
+__anonf6c29a210b02	inc/topology.h	/^			auto f = [&]( unsigned r ) -> unsigned { return (_num_roots \/ 2 - x + r + _num_roots) % _num/;"	f	function:syc::topology::model::v_01::topology_sketch_type::search2	typeref:typename:unsigned	file:
+__anonf6c29a210c02	inc/topology.h	/^                {$/;"	f	function:syc::topology::v_02::detail::accumulate_cross_number::finish_vertex	typeref:typename:int	file:
+__anonf6c29a210d02	inc/topology.h	/^                {$/;"	f	function:syc::topology::v_02::detail::accumulate_cross_number::finish_vertex	file:
+__anonf6c29a210e02	inc/topology.h	/^                {$/;"	f	function:syc::topology::v_02::detail::accumulate_cross_number::finish_vertex	file:
+__anonf6c29a210f02	inc/topology.h	/^                {$/;"	f	function:syc::topology::v_02::detail::accumulate_cross_number::finish_vertex	file:
+__anonf6c29a211002	inc/topology.h	/^                {$/;"	f	function:syc::topology::v_02::detail::accumulate_cross_number::finish_vertex	file:
+__anonf6c29a211102	inc/topology.h	/^                    {$/;"	f	function:syc::topology::v_02::detail::compute_dest_ordering_and_cross_number::finish_vertex	file:
+__anonf6c29a211202	inc/topology.h	/^                    {$/;"	f	function:syc::topology::v_02::detail::compute_dest_ordering_and_cross_number::finish_vertex	file:
+__anonf6c29a211302	inc/topology.h	/^                    {$/;"	f	function:syc::topology::v_02::detail::compute_dest_ordering_and_cross_number::finish_vertex	file:
+__anonf6c29a211402	inc/topology.h	/^                    {$/;"	f	function:syc::topology::v_02::detail::compute_dest_ordering_and_cross_number::finish_vertex	file:
+__anonf6c29a211502	inc/topology.h	/^                    {$/;"	f	function:syc::topology::v_02::detail::compute_dest_ordering_and_cross_number2::finish_vertex	file:
+__anonf6c29a211602	inc/topology.h	/^                    {$/;"	f	function:syc::topology::v_02::detail::compute_dest_ordering_and_cross_number2::finish_vertex	file:
+__anonf6c29a211702	inc/topology.h	/^                    {$/;"	f	function:syc::topology::v_02::detail::compute_dest_ordering_and_cross_number2::finish_vertex	file:
+__anonf6c29a211802	inc/topology.h	/^			{$/;"	f	function:syc::topology::v_02::planar_orderd_forest_solution::gnuplot	file:
+__anonf6c29a211902	inc/topology.h	/^			{$/;"	f	function:syc::topology::v_02::planar_orderd_forest_solution::gnuplot	file:
+__anonf6c29a211a02	inc/topology.h	/^			{$/;"	f	function:syc::topology::v_02::planar_orderd_forest_solution::gnuplot	file:
+__anonf6c29a211b02	inc/topology.h	/^                {$/;"	f	function:syc::topology::v_02::circular_frame::t_escape	file:
+__anonf6c29a211c02	inc/topology.h	/^                {$/;"	f	function:syc::topology::v_02::circular_frame::t_escape	file:
+__anonf6c29a211d02	inc/topology.h	/^                {$/;"	f	function:syc::topology::v_02::circular_frame::t_escape	file:
+__anonf6c29a211e02	inc/topology.h	/^                {$/;"	f	function:syc::topology::v_02::circular_frame::t_escape2	file:
+__anonf6c29a211f02	inc/topology.h	/^                {$/;"	f	function:syc::topology::v_02::circular_frame::t_escape2	file:
+__anonf6c29a212002	inc/topology.h	/^                {$/;"	f	function:syc::topology::v_02::circular_frame::t_escape2	file:
+__anonf6c29a212102	inc/topology.h	/^            {$/;"	f	function:syc::topology::v_02::package_data::read_via_results_file	file:
+__anonf6c29a212202	inc/topology.h	/^            {$/;"	f	function:syc::topology::v_02::package_data::write_via_data	file:
+__anonf6c29a212302	inc/topology.h	/^            {$/;"	f	function:syc::topology::v_03::package_data::read_via_results_file	file:
+__anonf6c29a212402	inc/topology.h	/^            {$/;"	f	function:syc::topology::v_03::package_data::reorder_nets_by_computing_cross_product_of_finger_position	file:
+__anonf6c29a212502	inc/topology.h	/^            {$/;"	f	function:syc::topology::v_03::package_data::write_via_data	file:
+__anonf6c29a212602	inc/topology.h	/^            {$/;"	f	function:syc::topology::v_03::package_data::generate_fucked_up_case	file:
+__anonf6c29a212702	inc/topology.h	/^                    {$/;"	f	function:syc::topology::v_03::detail::compute_dest_ordering_and_cross_number2::finish_vertex	file:
+__anonf6c29a212802	inc/topology.h	/^                    {$/;"	f	function:syc::topology::v_03::detail::compute_dest_ordering_and_cross_number2::finish_vertex	file:
+__anonf6c29a212902	inc/topology.h	/^                    {$/;"	f	function:syc::topology::v_03::detail::compute_dest_ordering_and_cross_number2::finish_vertex	file:
+__anonf6c29a212a02	inc/topology.h	/^        auto    cmp         = [&]( DE const& l, DE const& r ) { return std::get<2>(l) > std::get/;"	f	function:syc::topology::v_03::planar_orderd_forest_solution::find_MST_by_A_star_heu_distance	file:
+__anonf6c29a212b02	inc/topology.h	/^        auto    cmp         = [&]( DE const& l, DE const& r ) { return std::get<2>(l) > std::get/;"	f	function:syc::topology::v_03::planar_orderd_forest_solution::find_MST_by_target_dist_from_root	file:
+__anonf6c29a212c02	inc/topology.h	/^                {$/;"	f	function:syc::topology::v_03::circular_frame::t_escape	file:
+__anonf6c29a212d02	inc/topology.h	/^                {$/;"	f	function:syc::topology::v_03::circular_frame::t_escape	file:
+__anonf6c29a212e02	inc/topology.h	/^                {$/;"	f	function:syc::topology::v_03::circular_frame::t_escape	file:
+__anonf6c29a212f02	inc/topology.h	/^                {$/;"	f	function:syc::topology::v_03::circular_frame::t_escape2	file:
+__anonf6c29a213002	inc/topology.h	/^                {$/;"	f	function:syc::topology::v_03::circular_frame::t_escape3	file:
+__anonf6c29a213102	inc/topology.h	/^                {$/;"	f	function:syc::topology::v_03::circular_frame::t_escape4	file:
+__anonf6c29a213202	inc/topology.h	/^            {$/;"	f	function:syc::topology::v_03::comparision::sort_by_net	file:
+__anonfc29dbc90102	src/test_heuristic1_256.cpp	/^        {$/;"	f	function:sort_by_net_name_256	file:
+__has_include	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^#  define __has_include(/;"	d	file:
+__has_include	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define __has_include(/;"	d	file:
+_circular_frame	inc/circular_frame.h	/^                    _circular_frame;$/;"	m	class:syc::topology::v_04::model::slice_list	typeref:typename:decl::circular_frame_type
+_cross_number	inc/topology.h	/^				unsigned&									_cross_number;		\/\/ OUT $/;"	m	struct:syc::topology::v_02::detail::accumulate_cross_number	typeref:typename:unsigned &
+_current_root	inc/topology.h	/^				std::size_t									_current_root;		\/\/ UTIL$/;"	m	struct:syc::topology::v_02::detail::accumulate_cross_number	typeref:typename:std::size_t
+_data_file_names	inc/gnugraph.h	/^					std::vector<std::string>	_data_file_names;$/;"	m	class:syc::gnuplot::v_01::gnugraph	typeref:typename:std::vector<std::string>
+_dg	inc/topology.h	/^				DiGraph&    _dg;$/;"	m	class:syc::topology::v_03::detail::build_directed_forest	typeref:typename:DiGraph &
+_embedding_frame	inc/circular_frame.h	/^                    _embedding_frame;$/;"	m	class:syc::topology::v_04::model::slice_list	typeref:typename:std::vector<decl::mapping_list>
+_i	inc/topology.h	/^				unsigned _i;$/;"	m	class:syc::topology::detail::v_01::compute_dest	typeref:typename:unsigned
+_lineStyleSize	inc/gnugraph.h	/^					unsigned					_lineStyleSize = 0;$/;"	m	class:syc::gnuplot::v_01::gnugraph	typeref:typename:unsigned
+_m	inc/topology.h	/^				PMap _m;$/;"	m	struct:syc::topology::v_02::detail::set_mother_vertex_property	typeref:typename:PMap
+_nets	inc/topology.h	/^				Net const&									_nets;				\/\/ IN$/;"	m	struct:syc::topology::v_02::detail::accumulate_cross_number	typeref:typename:Net const &
+_num_leafs	inc/topology.h	/^				std::size_t								_num_leafs;$/;"	m	class:syc::topology::model::v_01::topology_sketch_type	typeref:typename:std::size_t
+_num_roots	inc/circular_frame.h	/^			std::size_t			                    _num_roots;$/;"	m	struct:syc::topology::v_04::planar_directed_forset_solution	typeref:typename:std::size_t
+_num_roots	inc/topology.h	/^				long int _num_roots;$/;"	m	class:syc::topology::detail::v_01::compute_dest	typeref:typename:long int
+_num_roots	inc/topology.h	/^				std::size_t									_num_roots;			\/\/ IN$/;"	m	struct:syc::topology::v_02::detail::accumulate_cross_number	typeref:typename:std::size_t
+_num_roots	inc/topology.h	/^				std::size_t								_num_roots;$/;"	m	class:syc::topology::model::v_01::topology_sketch_type	typeref:typename:std::size_t
+_num_roots	inc/topology.h	/^                unsigned    _num_roots;$/;"	m	class:syc::topology::v_03::detail::build_directed_forest	typeref:typename:unsigned
+_objectSize	inc/gnugraph.h	/^					unsigned					_objectSize = 0;$/;"	m	class:syc::gnuplot::v_01::gnugraph	typeref:typename:unsigned
+_perturbs	inc/topology.h	/^            std::vector< unsigned >                 _perturbs; $/;"	m	class:syc::topology::v_02::planar_orderd_forest_solution	typeref:typename:std::vector<unsigned>
+_perturbs	inc/topology.h	/^            std::vector< unsigned >                 _perturbs; $/;"	m	class:syc::topology::v_03::planar_orderd_forest_solution	typeref:typename:std::vector<unsigned>
+_points	inc/circular_frame.h	/^			std::vector<PointType>					_points;$/;"	m	struct:syc::topology::v_04::planar_directed_forset_solution	typeref:typename:std::vector<PointType>
+_points	inc/topology.h	/^				std::vector<point_type>					_points;$/;"	m	class:syc::topology::model::v_01::topology_sketch_type	typeref:typename:std::vector<point_type>
+_points	inc/topology.h	/^			std::vector<PointType>					_points;$/;"	m	class:syc::topology::v_02::planar_orderd_forest_solution	typeref:typename:std::vector<PointType>
+_points	inc/topology.h	/^			std::vector<PointType>					_points;$/;"	m	class:syc::topology::v_03::planar_orderd_forest_solution	typeref:typename:std::vector<PointType>
+_scriptName	inc/gnugraph.h	/^					std::string					_scriptName;$/;"	m	class:syc::gnuplot::v_01::gnugraph	typeref:typename:std::string
+_seq	inc/topology.h	/^				std::vector< std::list< std::size_t > >		_seq;				\/\/ UTIL $/;"	m	struct:syc::topology::v_02::detail::accumulate_cross_number	typeref:typename:std::vector<std::list<std::size_t>>
+_sol	inc/topology.h	/^			CircularFrameSolution&		_sol;$/;"	m	class:syc::topology::v_02::circular_frame	typeref:typename:CircularFrameSolution &
+_sol	inc/topology.h	/^			CircularFrameSolution&		_sol;$/;"	m	class:syc::topology::v_03::circular_frame	typeref:typename:CircularFrameSolution &
+_topocnt	inc/topology.h	/^				std::size_t					_topocnt = 0;$/;"	m	class:syc::topology::detail::v_01::initialize_topology	typeref:typename:std::size_t
+_topology_plane	inc/circular_frame.h	/^                    _topology_plane;$/;"	m	class:syc::topology::v_04::model::slice_list	typeref:typename:std::list<detail::slice>
+_vd	inc/circular_frame.h	/^			std::shared_ptr<VoronoiDiagramType>		_vd;$/;"	m	struct:syc::topology::v_04::planar_directed_forset_solution	typeref:typename:std::shared_ptr<VoronoiDiagramType>
+_vd	inc/topology.h	/^			std::shared_ptr<VoronoiDiagramType>		_vd;$/;"	m	class:syc::topology::v_02::planar_orderd_forest_solution	typeref:typename:std::shared_ptr<VoronoiDiagramType>
+_vd	inc/topology.h	/^			std::shared_ptr<VoronoiDiagramType>		_vd;$/;"	m	class:syc::topology::v_03::planar_orderd_forest_solution	typeref:typename:std::shared_ptr<VoronoiDiagramType>
+accumulate_cross_number	inc/topology.h	/^				accumulate_cross_number( std::size_t const r, std::size_t const m, Net const& N, unsigned& n/;"	f	struct:syc::topology::v_02::detail::accumulate_cross_number
+accumulate_cross_number	inc/topology.h	/^		struct accumulate_cross_number : public boost::default_dfs_visitor$/;"	s	namespace:syc::topology::v_02::detail
+add_image	src/write_to_xlsx.py	/^def add_image( Routing_Policy, MST_Policy, P ):$/;"	f
+all	build/Makefile	/^all: cmake_check_build_system$/;"	t
+anticlockwise_route_through	inc/topology.h	/^	anticlockwise_route_through( T1 h, T2 T ) $/;"	f	class:syc::topology::v_03::circular_frame	typeref:typename:auto
+anticlockwise_route_through	inc/topology.h	/^	anticlockwise_route_through( typename base::topo_descriptor h, typename base::topo_descriptor t/;"	f	class:syc::topology::v_03::circular_frame	typeref:typename:auto
+apply_routing_policy	src/experiment.cpp	/^    void apply_routing_policy( CircularFrame& _cf )$/;"	f	struct:the_basic_routing_algorithm	typeref:typename:void	file:
+apply_routing_policy	src/experiment.cpp	/^    void apply_routing_policy( CircularFrame& _cf )$/;"	f	struct:topology_escape_routing_1	typeref:typename:void	file:
+apply_routing_policy	src/experiment.cpp	/^    void apply_routing_policy( CircularFrame& _cf )$/;"	f	struct:topology_escape_routing_2	typeref:typename:void	file:
+apply_routing_policy	src/experiment.cpp	/^    void apply_routing_policy( CircularFrame& _cf )$/;"	f	struct:topology_escape_routing_3	typeref:typename:void	file:
+apply_routing_policy	src/experiment.cpp	/^    void apply_routing_policy( CircularFrame& _cf )$/;"	f	struct:topology_escape_routing_4	typeref:typename:void	file:
+apply_routing_policy	src/experiment2.cpp	/^        void apply_routing_policy( CircularFrame& _cf )$/;"	f	struct:Routing_Policy::the_basic_routing_algorithm	typeref:typename:void	file:
+apply_routing_policy	src/experiment2.cpp	/^        void apply_routing_policy( CircularFrame& _cf )$/;"	f	struct:Routing_Policy::topology_escape_routing_1	typeref:typename:void	file:
+apply_routing_policy	src/experiment2.cpp	/^        void apply_routing_policy( CircularFrame& _cf )$/;"	f	struct:Routing_Policy::topology_escape_routing_2	typeref:typename:void	file:
+apply_routing_policy	src/experiment2.cpp	/^        void apply_routing_policy( CircularFrame& _cf )$/;"	f	struct:Routing_Policy::topology_escape_routing_3	typeref:typename:void	file:
+apply_routing_policy	src/experiment2.cpp	/^        void apply_routing_policy( CircularFrame& _cf )$/;"	f	struct:Routing_Policy::topology_escape_routing_4	typeref:typename:void	file:
+attachment	inc/topology.h	/^					>>	attachment;$/;"	m	class:syc::topology::model::v_01::sketchable_forest	typeref:typename:std::vector<std::pair<slice_descriptor,bool>>
+attribution	inc/topology.h	/^			attribution( topo_descriptor const d ) -> int							$/;"	f	class:syc::topology::model::v_01::sketchable_forest	typeref:typename:int
+avg_length	src/experiment.cpp	/^double avg_length( VecLinestring const& gp )$/;"	f	typeref:typename:double
+avg_length	src/experiment2.cpp	/^        double avg_length( VecLinestring const& gp )$/;"	f	namespace:Test::detail	typeref:typename:double
+back_side_of_an_edge	inc/topology.h	/^					enum _Att		{ tree_side_of_an_edge = 0, back_side_of_an_edge = 1, vertex = 2 };$/;"	e	enum:syc::topology::model::v_01::sketchable_forest::_Att
+balldiameter	inc/topology.h	/^            CoordinateType      balldiameter;$/;"	m	class:syc::topology::v_02::package_data	typeref:typename:CoordinateType
+balldiameter	inc/topology.h	/^            CoordinateType      balldiameter;$/;"	m	class:syc::topology::v_03::package_data	typeref:typename:CoordinateType
+balldimensionX	inc/topology.h	/^            unsigned            balldimensionX;$/;"	m	class:syc::topology::v_02::package_data	typeref:typename:unsigned
+balldimensionX	inc/topology.h	/^            unsigned            balldimensionX;$/;"	m	class:syc::topology::v_03::package_data	typeref:typename:unsigned
+balldimensionY	inc/topology.h	/^            unsigned            balldimensionY; $/;"	m	class:syc::topology::v_02::package_data	typeref:typename:unsigned
+balldimensionY	inc/topology.h	/^            unsigned            balldimensionY; $/;"	m	class:syc::topology::v_03::package_data	typeref:typename:unsigned
+ballpitch	inc/topology.h	/^            CoordinateType      ballpitch; $/;"	m	class:syc::topology::v_02::package_data	typeref:typename:CoordinateType
+ballpitch	inc/topology.h	/^            CoordinateType      ballpitch; $/;"	m	class:syc::topology::v_03::package_data	typeref:typename:CoordinateType
+base	inc/topology.h	/^			using base				= syc::topology::model::v_01::sketchable_forest< point_type, coordinate_type >;$/;"	t	class:syc::topology::v_02::circular_frame	typeref:typename:syc::topology::model::v_01::sketchable_forest<point_type,coordinate_type>
+base	inc/topology.h	/^			using base				= syc::topology::model::v_01::sketchable_forest< point_type, coordinate_type >;$/;"	t	class:syc::topology::v_03::circular_frame	typeref:typename:syc::topology::model::v_01::sketchable_forest<point_type,coordinate_type>
+base_sketchable_forest	inc/topology.h	/^			using base_sketchable_forest = $/;"	t	namespace:syc::topology::detail::v_01	typeref:typename:boost::adjacency_list<typename boost::vecS,typename boost::vecS,typename boost::bidirectionalS,vp<coordinate_type,point_type>>
+boost	inc/topology.h	/^	namespace boost $/;"	n
+boost	inc/topology.h	/^namespace boost $/;"	n
+boost	inc/topology.h	/^namespace boost::geometry$/;"	n
+build_directed_forest	inc/topology.h	/^				build_directed_forest( DiGraph& sf, unsigned n ): _dg( sf ), _num_roots( n ) {}$/;"	f	class:syc::topology::v_03::detail::build_directed_forest
+build_directed_forest	inc/topology.h	/^		class build_directed_forest: public boost::default_bfs_visitor $/;"	c	namespace:syc::topology::v_03::detail
+build_sketchable_forest	inc/topology.h	/^				build_sketchable_forest( delaunay_triangulation_graph_type& dgt, sketable_forest& sf ): _DTG/;"	f	class:syc::topology::detail::v_01::build_sketchable_forest
+build_sketchable_forest	inc/topology.h	/^				build_sketchable_forest( sketable_forest& sf ): _SF( sf ) {}$/;"	f	class:syc::topology::v_02::detail::build_sketchable_forest
+build_sketchable_forest	inc/topology.h	/^				build_sketchable_forest( sketable_forest& sf ): _SF( sf ) {}$/;"	f	class:syc::topology::v_03::detail::build_sketchable_forest
+build_sketchable_forest	inc/topology.h	/^		class build_sketchable_forest: public boost::default_bfs_visitor $/;"	c	namespace:syc::topology::detail::v_01
+build_sketchable_forest	inc/topology.h	/^		class build_sketchable_forest: public boost::default_bfs_visitor $/;"	c	namespace:syc::topology::v_02::detail
+build_sketchable_forest	inc/topology.h	/^		class build_sketchable_forest: public boost::default_bfs_visitor $/;"	c	namespace:syc::topology::v_03::detail
+cal_c_P	inc/topology.h	/^    cal_c_P( void )$/;"	f	class:syc::topology::v_03::package_data	typeref:typename:auto
+children	inc/circular_frame.h	/^                    children;$/;"	m	struct:syc::topology::v_04::detail::slice	typeref:typename:std::list<decl::slice_descriptor>
+children	inc/topology.h	/^				std::list<std::list<slice_type>::iterator>	children;$/;"	m	class:syc::topology::detail::v_01::slice_type	typeref:typename:std::list<std::list<slice_type>::iterator>
+circular_descriptor	inc/circular_frame.h	/^        using   circular_descriptor     = circular_frame_type::iterator;$/;"	t	namespace:syc::topology::v_04::decl	typeref:typename:circular_frame_type::iterator
+circular_frame	inc/topology.h	/^	circular_frame( CircularFrameSolution& sol ): _sol( sol )$/;"	f	class:syc::topology::v_02::circular_frame
+circular_frame	inc/topology.h	/^	circular_frame( CircularFrameSolution& sol ): _sol( sol )$/;"	f	class:syc::topology::v_03::circular_frame
+circular_frame	inc/topology.h	/^	class circular_frame :$/;"	c	namespace:syc::topology::v_02
+circular_frame	inc/topology.h	/^	class circular_frame :$/;"	c	namespace:syc::topology::v_03
+circular_frame_type	inc/circular_frame.h	/^        using   circular_frame_type     = std::list< std::tuple< slice_descriptor, topology_desc/;"	t	namespace:syc::topology::v_04::decl	typeref:typename:std::list<std::tuple<slice_descriptor,topology_descriptor,slice_descriptor>>
+clean	build/Makefile	/^clean:$/;"	t
+clean/fast	build/Makefile	/^clean\/fast: clean$/;"	t
+clean_all	inc/gnugraph.h	/^					void clean_all( void ) $/;"	f	class:syc::gnuplot::v_01::gnugraph	typeref:typename:void
+clean_data_files	inc/gnugraph.h	/^					void clean_data_files( void ) $/;"	f	class:syc::gnuplot::v_01::gnugraph	typeref:typename:void
+clean_scripts	inc/gnugraph.h	/^					void clean_scripts( void ) $/;"	f	class:syc::gnuplot::v_01::gnugraph	typeref:typename:void
+clockwise_depth_first_route	inc/topology.h	/^		clockwise_depth_first_route( typename sketchable_forest_type::topo_descriptor& h, std::size_t /;"	f	class:syc::topology::model::v_01::topology_sketch_type	typeref:typename:bool
+clockwise_depth_first_route	inc/topology.h	/^	clockwise_depth_first_route( typename base::topo_descriptor& h, std::size_t const u ) $/;"	f	class:syc::topology::v_02::circular_frame	typeref:typename:bool
+clockwise_depth_first_route	inc/topology.h	/^	clockwise_depth_first_route( typename base::topo_descriptor& h, std::size_t const u ) $/;"	f	class:syc::topology::v_03::circular_frame	typeref:typename:bool
+clockwise_route_through	inc/topology.h	/^	clockwise_route_through( T1 h, T2 T ) $/;"	f	class:syc::topology::v_03::circular_frame	typeref:typename:auto
+clockwise_route_through	inc/topology.h	/^	clockwise_route_through( typename base::topo_descriptor h, typename base::topo_descriptor t ) $/;"	f	class:syc::topology::v_03::circular_frame	typeref:typename:auto
+cmake_check_build_system	build/Makefile	/^cmake_check_build_system:$/;"	t
+cmake_force	build/Makefile	/^cmake_force:$/;"	t
+column_string	src/write_to_xlsx.py	/^def column_string(n):$/;"	f
+comparision	inc/topology.h	/^        comparision( CircularFrameNet const& _n1, GeometricalPath const& _gp1, CircularFrameNet /;"	f	struct:syc::topology::v_03::comparision
+comparision	inc/topology.h	/^    struct comparision$/;"	s	namespace:syc::topology::v_03
+compute_D	inc/topology.h	/^            void compute_D( Vertex u )$/;"	f	struct:syc::topology::v_02::detail::compute_dest_ordering_and_cross_number	typeref:typename:void
+compute_D	inc/topology.h	/^            void compute_D( Vertex u )$/;"	f	struct:syc::topology::v_02::detail::compute_dest_ordering_and_cross_number2	typeref:typename:void
+compute_D	inc/topology.h	/^            void compute_D( Vertex u )$/;"	f	struct:syc::topology::v_03::detail::compute_dest_ordering_and_cross_number2	typeref:typename:void
+compute_dest	inc/topology.h	/^				compute_dest( sketable_forest& f, unsigned i, unsigned n ): _F( f ), _i( i ), _num_roots( n /;"	f	class:syc::topology::detail::v_01::compute_dest
+compute_dest	inc/topology.h	/^		class compute_dest: public boost::default_bfs_visitor $/;"	c	namespace:syc::topology::detail::v_01
+compute_dest_ordering	inc/topology.h	/^            void compute_dest_ordering( Vertex u )$/;"	f	struct:syc::topology::v_03::detail::compute_net_priority_and_dest_ordering	typeref:typename:void
+compute_dest_ordering_and_cross_number	inc/topology.h	/^            compute_dest_ordering_and_cross_number( Net const& n, int num_vertices, int num_root/;"	f	struct:syc::topology::v_02::detail::compute_dest_ordering_and_cross_number
+compute_dest_ordering_and_cross_number	inc/topology.h	/^        struct compute_dest_ordering_and_cross_number : public boost::default_dfs_visitor $/;"	s	namespace:syc::topology::v_02::detail
+compute_dest_ordering_and_cross_number2	inc/topology.h	/^            compute_dest_ordering_and_cross_number2( Net const& n, int num_vertices, int num_roo/;"	f	struct:syc::topology::v_02::detail::compute_dest_ordering_and_cross_number2
+compute_dest_ordering_and_cross_number2	inc/topology.h	/^            compute_dest_ordering_and_cross_number2( Net const& n, int num_vertices, int num_roo/;"	f	struct:syc::topology::v_03::detail::compute_dest_ordering_and_cross_number2
+compute_dest_ordering_and_cross_number2	inc/topology.h	/^        struct compute_dest_ordering_and_cross_number2 : public boost::default_dfs_visitor $/;"	s	namespace:syc::topology::v_02::detail
+compute_dest_ordering_and_cross_number2	inc/topology.h	/^        struct compute_dest_ordering_and_cross_number2 : public boost::default_dfs_visitor $/;"	s	namespace:syc::topology::v_03::detail
+compute_net_priority_and_dest_ordering	inc/topology.h	/^		struct compute_net_priority_and_dest_ordering: public boost::default_dfs_visitor $/;"	s	namespace:syc::topology::v_03::detail
+compute_net_priority_and_dest_ordering	inc/topology.h	/^            compute_net_priority_and_dest_ordering( CircularFrame& c, Net& n, unsigned b, DestOr/;"	f	struct:syc::topology::v_03::detail::compute_net_priority_and_dest_ordering
+const	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^# define const$/;"	d	file:
+construct_delaunay_trianguation	inc/topology.h	/^		construct_delaunay_trianguation( void )  $/;"	f	class:syc::topology::model::v_01::topology_sketch_type	typeref:typename:void
+construct_delaunay_trianguation	inc/topology.h	/^	construct_delaunay_trianguation( void )	$/;"	f	class:syc::topology::v_02::planar_orderd_forest_solution	typeref:typename:void
+construct_delaunay_trianguation	inc/topology.h	/^	construct_delaunay_trianguation( void )	$/;"	f	class:syc::topology::v_03::planar_orderd_forest_solution	typeref:typename:void
+construct_sketchable_forest	inc/topology.h	/^		construct_sketchable_forest( void ) $/;"	f	class:syc::topology::model::v_01::topology_sketch_type	typeref:typename:void
+coordinate_type	inc/topology.h	/^					using coordinate_type = CoordinateType;$/;"	t	struct:boost::polygon::point_traits	typeref:typename:CoordinateType
+coordinate_type	inc/topology.h	/^				using coordinate_type					= CoordinateType;$/;"	t	class:syc::topology::model::v_01::topology_sketch_type	typeref:typename:CoordinateType
+coordinate_type	inc/topology.h	/^			using coordinate_type		= CoordinateType;$/;"	t	class:syc::topology::v_02::planar_orderd_forest_solution	typeref:typename:CoordinateType
+coordinate_type	inc/topology.h	/^			using coordinate_type		= CoordinateType;$/;"	t	class:syc::topology::v_03::planar_orderd_forest_solution	typeref:typename:CoordinateType
+coordinate_type	inc/topology.h	/^			using coordinate_type	= typename CircularFrameSolution::coordinate_type;$/;"	t	class:syc::topology::v_02::circular_frame	typeref:typename:CircularFrameSolution::coordinate_type
+coordinate_type	inc/topology.h	/^			using coordinate_type	= typename CircularFrameSolution::coordinate_type;$/;"	t	class:syc::topology::v_03::circular_frame	typeref:typename:CircularFrameSolution::coordinate_type
+coordinate_type	inc/topology.h	/^        using coordinate_type   = CoordinateType;$/;"	t	class:syc::topology::v_03::package_data	typeref:typename:CoordinateType
+coordinate_type	src/test_dirtyarchieve.cpp	/^	using coordinate_type			= double;$/;"	t	function:topology_test_1	typeref:typename:double	file:
+coordinate_type	src/test_dirtyarchieve.cpp	/^	using coordinate_type			= double;$/;"	t	function:topology_test_2	typeref:typename:double	file:
+coordinate_type	src/test_dirtyarchieve.cpp	/^	using coordinate_type			= double;$/;"	t	function:topology_test_3	typeref:typename:double	file:
+corresponding_vertex	inc/topology.h	/^			corresponding_vertex( topo_descriptor const d )	-> std::size_t$/;"	f	class:syc::topology::model::v_01::sketchable_forest	typeref:typename:std::size_t
+cost	inc/topology.h	/^	cost( void )$/;"	f	class:syc::topology::v_02::planar_orderd_forest_solution	typeref:typename:double
+cost	inc/topology.h	/^	cost( void )$/;"	f	class:syc::topology::v_03::planar_orderd_forest_solution	typeref:typename:double
+cross_n	inc/topology.h	/^            unsigned&               cross_n;    \/\/ OUT:     cross_number$/;"	m	struct:syc::topology::v_02::detail::compute_dest_ordering_and_cross_number	typeref:typename:unsigned &
+cross_n	inc/topology.h	/^            unsigned&               cross_n;    \/\/ OUT:     cross_number$/;"	m	struct:syc::topology::v_02::detail::compute_dest_ordering_and_cross_number2	typeref:typename:unsigned &
+cross_n	inc/topology.h	/^            unsigned&               cross_n;    \/\/ OUT:     cross_number$/;"	m	struct:syc::topology::v_03::detail::compute_dest_ordering_and_cross_number2	typeref:typename:unsigned &
+debugging_in_GIF	inc/topology.h	/^    debugging_in_GIF( PairPPointNetindex const& Proj_P, std::string GIF_name )$/;"	f	class:syc::topology::v_03::package_data	typeref:typename:auto
+decl	inc/circular_frame.h	/^    namespace decl   $/;"	n	namespace:syc::topology::v_04
+default_target	build/Makefile	/^default_target: all$/;"	t
+delaunay_triangulation_graph_type	inc/topology.h	/^				using delaunay_triangulation_graph_type	= syc::topology::detail::v_01::delaunay_triangulatio/;"	t	class:syc::topology::model::v_01::topology_sketch_type	typeref:typename:syc::topology::detail::v_01::delaunay_triangulation_graph_type<CoordinateType>
+delaunay_triangulation_graph_type	inc/topology.h	/^		using delaunay_triangulation_graph_type = $/;"	t	namespace:syc::topology::detail::v_01
+demo_1	CMakeLists.txt	/^    demo_1 $/;"	t
+demo_1	build/Makefile	/^demo_1: cmake_check_build_system$/;"	t
+demo_1/fast	build/Makefile	/^demo_1\/fast:$/;"	t
+demo_2	CMakeLists.txt	/^    demo_2 $/;"	t
+demo_2	build/Makefile	/^demo_2: cmake_check_build_system$/;"	t
+demo_2/fast	build/Makefile	/^demo_2\/fast:$/;"	t
+demo_3	CMakeLists.txt	/^    demo_3 $/;"	t
+demo_3	build/Makefile	/^demo_3: cmake_check_build_system$/;"	t
+demo_3/fast	build/Makefile	/^demo_3\/fast:$/;"	t
+demo_4	CMakeLists.txt	/^    demo_4 $/;"	t
+demo_4	build/Makefile	/^demo_4: cmake_check_build_system$/;"	t
+demo_4/fast	build/Makefile	/^demo_4\/fast:$/;"	t
+demo_5	CMakeLists.txt	/^    demo_5 $/;"	t
+demo_5	build/Makefile	/^demo_5: cmake_check_build_system$/;"	t
+demo_5/fast	build/Makefile	/^demo_5\/fast:$/;"	t
+demo_6	CMakeLists.txt	/^    demo_6 $/;"	t
+demo_6	build/Makefile	/^demo_6: cmake_check_build_system$/;"	t
+demo_6/fast	build/Makefile	/^demo_6\/fast:$/;"	t
+depend	build/Makefile	/^depend:$/;"	t
+detail	inc/circular_frame.h	/^    namespace detail$/;"	n	namespace:syc::topology::v_04
+detail	inc/topology.h	/^	namespace detail $/;"	n	namespace:syc::topology::v_02
+detail	inc/topology.h	/^	namespace detail $/;"	n	namespace:syc::topology::v_03
+detail	inc/topology.h	/^	namespace detail::v_01							\/\/ implementation detail$/;"	n	namespace:syc::topology
+detail	inc/topology.h	/^    namespace detail $/;"	n	namespace:syc::topology::v_03
+detail	inc/topology.h	/^    namespace detail$/;"	n	namespace:syc::topology::v_03
+detail	src/experiment2.cpp	/^    namespace detail$/;"	n	namespace:Test	file:
+determine_net_priority_and_copmute_dest_ordering	inc/topology.h	/^		struct determine_net_priority_and_copmute_dest_ordering: public boost::default_dfs_visitor $/;"	s	namespace:syc::topology::v_02::detail
+determine_net_priority_and_copmute_dest_ordering	inc/topology.h	/^		struct determine_net_priority_and_copmute_dest_ordering: public boost::default_dfs_visitor $/;"	s	namespace:syc::topology::v_03::detail
+determine_net_priority_and_copmute_dest_ordering	inc/topology.h	/^            determine_net_priority_and_copmute_dest_ordering( CircularFrame& c, Net& n, unsigned/;"	f	struct:syc::topology::v_02::detail::determine_net_priority_and_copmute_dest_ordering
+determine_net_priority_and_copmute_dest_ordering	inc/topology.h	/^            determine_net_priority_and_copmute_dest_ordering( CircularFrame& c, Net& n, unsigned/;"	f	struct:syc::topology::v_03::detail::determine_net_priority_and_copmute_dest_ordering
+direction	inc/topology.h	/^				bool										direction	=  0;		\/\/ 0: South, 1: North$/;"	m	class:syc::topology::detail::v_01::slice_type	typeref:typename:bool
+discover_vertex	inc/topology.h	/^			void discover_vertex( Vertex u, Graph const& g ) $/;"	f	struct:syc::topology::v_02::detail::determine_net_priority_and_copmute_dest_ordering	typeref:typename:void
+discover_vertex	inc/topology.h	/^			void discover_vertex( Vertex u, Graph const& g ) $/;"	f	struct:syc::topology::v_03::detail::compute_net_priority_and_dest_ordering	typeref:typename:void
+discover_vertex	inc/topology.h	/^			void discover_vertex( Vertex u, Graph const& g ) $/;"	f	struct:syc::topology::v_03::detail::determine_net_priority_and_copmute_dest_ordering	typeref:typename:void
+downward	inc/topology.h	/^					enum _SliceDir	{ downward = 0, upward = 1 };$/;"	e	enum:syc::topology::model::v_01::sketchable_forest::_SliceDir
+edge_head	inc/topology.h	/^enum edge_head_t			{ edge_head				};$/;"	e	enum:edge_head_t
+edge_head_t	inc/topology.h	/^enum edge_head_t			{ edge_head				};$/;"	g
+edge_point	inc/topology.h	/^enum edge_point_t			{ edge_point			};$/;"	e	enum:edge_point_t
+edge_point_t	inc/topology.h	/^enum edge_point_t			{ edge_point			};$/;"	g
+edge_width	inc/topology.h	/^enum edge_width_t			{ edge_width			};$/;"	e	enum:edge_width_t
+edge_width_t	inc/topology.h	/^enum edge_width_t			{ edge_width			};$/;"	g
+edit_cache	build/Makefile	/^edit_cache:$/;"	t
+edit_cache/fast	build/Makefile	/^edit_cache\/fast: edit_cache$/;"	t
+end	inc/circular_frame.h	/^                    end;$/;"	m	struct:syc::topology::v_04::detail::slice	typeref:typename:decl::topology_descriptor
+examine_edge	inc/topology.h	/^					void examine_edge( Edge e, Graph const& g )  $/;"	f	class:syc::topology::detail::v_01::initialize_topology	typeref:typename:void
+examine_test_case	CMakeLists.txt	/^    examine_test_case$/;"	t
+examine_test_case	build/Makefile	/^examine_test_case: cmake_check_build_system$/;"	t
+examine_test_case/fast	build/Makefile	/^examine_test_case\/fast:$/;"	t
+examine_vertex	inc/topology.h	/^					void examine_vertex( Vertex u, Graph const& g )  $/;"	f	class:syc::topology::detail::v_01::build_sketchable_forest	typeref:typename:void
+examine_vertex	inc/topology.h	/^					void examine_vertex( Vertex u, Graph const& g )  $/;"	f	class:syc::topology::v_02::detail::build_sketchable_forest	typeref:typename:void
+examine_vertex	inc/topology.h	/^					void examine_vertex( Vertex u, Graph const& g )  $/;"	f	class:syc::topology::v_03::detail::build_directed_forest	typeref:typename:void
+examine_vertex	inc/topology.h	/^					void examine_vertex( Vertex u, Graph const& g )  $/;"	f	class:syc::topology::v_03::detail::build_sketchable_forest	typeref:typename:void
+experiment	CMakeLists.txt	/^    experiment $/;"	t
+experiment	build/Makefile	/^experiment: cmake_check_build_system$/;"	t
+experiment/fast	build/Makefile	/^experiment\/fast:$/;"	t
+experiment2	CMakeLists.txt	/^    experiment2 $/;"	t
+experiment2	build/Makefile	/^experiment2: cmake_check_build_system$/;"	t
+experiment2/fast	build/Makefile	/^experiment2\/fast:$/;"	t
+find_MST	src/experiment.cpp	/^    void find_MST( Sol& _s )$/;"	f	struct:find_MST_by_A_star_heu_distance	typeref:typename:void	file:
+find_MST	src/experiment.cpp	/^    void find_MST( Sol& _s )$/;"	f	struct:find_MST_by_comparable_length	typeref:typename:void	file:
+find_MST	src/experiment.cpp	/^    void find_MST( Sol& _s )$/;"	f	struct:find_MST_by_heuristic_method	typeref:typename:void	file:
+find_MST	src/experiment.cpp	/^    void find_MST( Sol& _s )$/;"	f	struct:find_MST_by_target_dist_from_root	typeref:typename:void	file:
+find_MST	src/experiment.cpp	/^    void find_MST( Sol& _s )$/;"	f	struct:find_MaxST_by_comparable_length	typeref:typename:void	file:
+find_MST	src/experiment.cpp	/^    void find_MST( Sol& _s )$/;"	f	struct:find_MinLevelST	typeref:typename:void	file:
+find_MST	src/experiment.cpp	/^    void find_MST( Sol& _s )$/;"	f	struct:find_trees_by_random	typeref:typename:void	file:
+find_MST	src/experiment2.cpp	/^        void find_MST( Sol& _s )$/;"	f	struct:MST_Policy::find_MST_by_A_star_heu_distance	typeref:typename:void	file:
+find_MST	src/experiment2.cpp	/^        void find_MST( Sol& _s )$/;"	f	struct:MST_Policy::find_MST_by_comparable_length	typeref:typename:void	file:
+find_MST	src/experiment2.cpp	/^        void find_MST( Sol& _s )$/;"	f	struct:MST_Policy::find_MST_by_heuristic_method	typeref:typename:void	file:
+find_MST	src/experiment2.cpp	/^        void find_MST( Sol& _s )$/;"	f	struct:MST_Policy::find_MST_by_target_dist_from_root	typeref:typename:void	file:
+find_MST	src/experiment2.cpp	/^        void find_MST( Sol& _s )$/;"	f	struct:MST_Policy::find_MaxST_by_comparable_length	typeref:typename:void	file:
+find_MST	src/experiment2.cpp	/^        void find_MST( Sol& _s )$/;"	f	struct:MST_Policy::find_MinLevelST	typeref:typename:void	file:
+find_MST	src/experiment2.cpp	/^        void find_MST( Sol& _s )$/;"	f	struct:MST_Policy::find_trees_by_random	typeref:typename:void	file:
+find_MST_by_A_star_heu_distance	inc/topology.h	/^	find_MST_by_A_star_heu_distance( void ) $/;"	f	class:syc::topology::v_03::planar_orderd_forest_solution	typeref:typename:void
+find_MST_by_A_star_heu_distance	src/experiment.cpp	/^struct find_MST_by_A_star_heu_distance$/;"	s	file:
+find_MST_by_A_star_heu_distance	src/experiment2.cpp	/^    struct find_MST_by_A_star_heu_distance$/;"	s	namespace:MST_Policy	file:
+find_MST_by_comparable_length	inc/topology.h	/^	find_MST_by_comparable_length( void ) $/;"	f	class:syc::topology::v_03::planar_orderd_forest_solution	typeref:typename:void
+find_MST_by_comparable_length	src/experiment.cpp	/^struct find_MST_by_comparable_length$/;"	s	file:
+find_MST_by_comparable_length	src/experiment2.cpp	/^    struct find_MST_by_comparable_length$/;"	s	namespace:MST_Policy	file:
+find_MST_by_heuristic_method	inc/topology.h	/^	find_MST_by_heuristic_method( void ) $/;"	f	class:syc::topology::v_03::planar_orderd_forest_solution	typeref:typename:void
+find_MST_by_heuristic_method	src/experiment.cpp	/^struct find_MST_by_heuristic_method$/;"	s	file:
+find_MST_by_heuristic_method	src/experiment2.cpp	/^    struct find_MST_by_heuristic_method$/;"	s	namespace:MST_Policy	file:
+find_MST_by_target_dist_from_root	inc/topology.h	/^	find_MST_by_target_dist_from_root( void ) $/;"	f	class:syc::topology::v_03::planar_orderd_forest_solution	typeref:typename:void
+find_MST_by_target_dist_from_root	src/experiment.cpp	/^struct find_MST_by_target_dist_from_root$/;"	s	file:
+find_MST_by_target_dist_from_root	src/experiment2.cpp	/^    struct find_MST_by_target_dist_from_root$/;"	s	namespace:MST_Policy	file:
+find_MaxST_by_comparable_length	inc/topology.h	/^	find_MaxST_by_comparable_length( void ) $/;"	f	class:syc::topology::v_03::planar_orderd_forest_solution	typeref:typename:void
+find_MaxST_by_comparable_length	src/experiment.cpp	/^struct find_MaxST_by_comparable_length$/;"	s	file:
+find_MaxST_by_comparable_length	src/experiment2.cpp	/^    struct find_MaxST_by_comparable_length$/;"	s	namespace:MST_Policy	file:
+find_MinLevelST	inc/topology.h	/^	find_MinLevelST( void ) $/;"	f	class:syc::topology::v_03::planar_orderd_forest_solution	typeref:typename:void
+find_MinLevelST	src/experiment.cpp	/^struct find_MinLevelST$/;"	s	file:
+find_MinLevelST	src/experiment2.cpp	/^    struct find_MinLevelST$/;"	s	namespace:MST_Policy	file:
+find_entrances_to_diff_slice	inc/topology.h	/^	find_entrances_to_diff_slice( typename base::topo_descriptor h ) $/;"	f	class:syc::topology::v_03::circular_frame	typeref:typename:auto
+find_trees_by_random	inc/topology.h	/^	find_trees_by_random( void ) $/;"	f	class:syc::topology::v_03::planar_orderd_forest_solution	typeref:typename:void
+find_trees_by_random	src/experiment.cpp	/^struct find_trees_by_random$/;"	s	file:
+find_trees_by_random	src/experiment2.cpp	/^    struct find_trees_by_random$/;"	s	namespace:MST_Policy	file:
+finish_vertex	inc/topology.h	/^					void finish_vertex( Vertex u, Graph const& g )  $/;"	f	class:syc::topology::detail::v_01::build_sketchable_forest	typeref:typename:void
+finish_vertex	inc/topology.h	/^					void finish_vertex( Vertex u, Graph const& g )  $/;"	f	class:syc::topology::detail::v_01::initialize_topology	typeref:typename:void
+finish_vertex	inc/topology.h	/^					void finish_vertex( Vertex u, Graph const& g )  $/;"	f	class:syc::topology::v_02::detail::build_sketchable_forest	typeref:typename:void
+finish_vertex	inc/topology.h	/^					void finish_vertex( Vertex u, Graph const& g )  $/;"	f	class:syc::topology::v_03::detail::build_directed_forest	typeref:typename:void
+finish_vertex	inc/topology.h	/^					void finish_vertex( Vertex u, Graph const& g )  $/;"	f	class:syc::topology::v_03::detail::build_sketchable_forest	typeref:typename:void
+finish_vertex	inc/topology.h	/^			void finish_vertex( Vertex u, Graph const& g ) $/;"	f	struct:syc::topology::v_02::detail::compute_dest_ordering_and_cross_number	typeref:typename:void
+finish_vertex	inc/topology.h	/^			void finish_vertex( Vertex u, Graph const& g ) $/;"	f	struct:syc::topology::v_02::detail::compute_dest_ordering_and_cross_number2	typeref:typename:void
+finish_vertex	inc/topology.h	/^			void finish_vertex( Vertex u, Graph const& g ) $/;"	f	struct:syc::topology::v_03::detail::compute_dest_ordering_and_cross_number2	typeref:typename:void
+finish_vertex	inc/topology.h	/^			void finish_vertex( Vertex u, Graph const& g ) $/;"	f	struct:syc::topology::v_03::detail::compute_net_priority_and_dest_ordering	typeref:typename:void
+finish_vertex	inc/topology.h	/^            void finish_vertex( Vertex u, Graph const& g ) $/;"	f	struct:syc::topology::v_02::detail::accumulate_cross_number	typeref:typename:void
+first	inc/topology.h	/^				std::size_t									first		= -1; $/;"	m	class:syc::topology::detail::v_01::slice_type	typeref:typename:std::size_t
+free_slice	inc/topology.h	/^			free_slice( std::size_t const arrow ) -> std::size_t $/;"	f	class:syc::topology::model::v_01::sketchable_forest	typeref:typename:std::size_t
+free_slice	inc/topology.h	/^			free_slice( topo_descriptor const arrow ) -> topo_descriptor$/;"	f	class:syc::topology::model::v_01::sketchable_forest	typeref:typename:topo_descriptor
+generate_case	inc/topology.h	/^    generate_case( int BorV )$/;"	f	class:syc::topology::v_03::package_data	typeref:typename:auto
+generate_case	inc/topology.h	/^    generate_case( void )$/;"	f	class:syc::topology::v_02::package_data	typeref:typename:auto
+generate_case_using_bumps	inc/topology.h	/^    generate_case_using_bumps( void )$/;"	f	class:syc::topology::v_03::package_data	typeref:typename:auto
+generate_case_using_vias	inc/topology.h	/^    generate_case_using_vias( void )$/;"	f	class:syc::topology::v_03::package_data	typeref:typename:auto
+generate_fucked_up_case	inc/topology.h	/^    generate_fucked_up_case( int BorV )$/;"	f	class:syc::topology::v_03::package_data	typeref:typename:auto
+generate_fucked_up_case_using_bumps	inc/topology.h	/^    generate_fucked_up_case_using_bumps( void )$/;"	f	class:syc::topology::v_03::package_data	typeref:typename:auto
+generate_fucked_up_case_using_vias	inc/topology.h	/^    generate_fucked_up_case_using_vias( void )$/;"	f	class:syc::topology::v_03::package_data	typeref:typename:auto
+generate_test_case	src/demo_6.cpp	/^auto generate_test_case( void )$/;"	f	typeref:typename:auto
+generate_test_case	src/test_sample1.cpp	/^auto generate_test_case( void )$/;"	f	typeref:typename:auto
+generate_test_case1	src/test_dirtyarchieve.cpp	/^auto generate_test_case1( void )$/;"	f	typeref:typename:auto
+geometry	inc/topology.h	/^namespace boost::geometry$/;"	n	namespace:boost
+geometry_concept	inc/topology.h	/^				struct geometry_concept<typename boost::geometry::model::d2::point_xy<CoordinateType>>$/;"	s	namespace:boost::polygon
+get	inc/topology.h	/^					static inline coordinate_type get( typename boost::geometry::model::d2::point_xy<Coordinate/;"	f	struct:boost::polygon::point_traits	typeref:typename:coordinate_type
+get_nets	inc/topology.h	/^	get_nets( void ) $/;"	f	class:syc::topology::v_02::circular_frame	typeref:typename:auto
+get_nets	inc/topology.h	/^	get_nets( void ) $/;"	f	class:syc::topology::v_03::circular_frame	typeref:typename:auto
+gnugraph	inc/gnugraph.h	/^					gnugraph( std::string const& script_name ): _scriptName( script_name )$/;"	f	class:syc::gnuplot::v_01::gnugraph
+gnugraph	inc/gnugraph.h	/^			class gnugraph : public std::pair<std::ofstream, std::ofstream> \/\/ the first one is the set/;"	c	namespace:syc::gnuplot::v_01
+gnuplot	inc/gnugraph.h	/^	namespace gnuplot$/;"	n	namespace:syc
+gnuplot	inc/topology.h	/^	gnuplot( GeometricPath const& gp )$/;"	f	class:syc::topology::v_02::planar_orderd_forest_solution	typeref:typename:void
+gnuplot	inc/topology.h	/^	gnuplot( GeometricPath const& gp )$/;"	f	class:syc::topology::v_03::planar_orderd_forest_solution	typeref:typename:void
+gnuplot	inc/topology.h	/^	gnuplot( GeometricPath const& gp, std::string GIF_name )$/;"	f	class:syc::topology::v_03::planar_orderd_forest_solution	typeref:typename:void
+gnuplot	inc/topology.h	/^	gnuplot( GeometricPath const& gp, unsigned i )$/;"	f	class:syc::topology::v_03::planar_orderd_forest_solution	typeref:typename:void
+gnuplot	inc/topology.h	/^    gnuplot( std::string script_filename )$/;"	f	class:syc::topology::v_02::package_data	typeref:typename:void
+gnuplot	inc/topology.h	/^    gnuplot( std::string script_filename )$/;"	f	class:syc::topology::v_03::package_data	typeref:typename:void
+gnuplot_png	inc/topology.h	/^	gnuplot_png( GeometricPath const& gp, std::string PNG_name, unsigned x, unsigned y )$/;"	f	class:syc::topology::v_03::planar_orderd_forest_solution	typeref:typename:void
+gnuplot_svg	inc/topology.h	/^	gnuplot_svg( GeometricPath const& gp, std::string PNG_name, unsigned i, unsigned x, unsigned y /;"	f	class:syc::topology::v_03::planar_orderd_forest_solution	typeref:typename:void
+gnuplot_svg	inc/topology.h	/^	gnuplot_svg( GeometricPath const& gp, std::string PNG_name, unsigned x, unsigned y )$/;"	f	class:syc::topology::v_03::planar_orderd_forest_solution	typeref:typename:void
+gp1	inc/topology.h	/^        GeometricalPath     gp1;$/;"	m	struct:syc::topology::v_03::comparision	typeref:typename:GeometricalPath
+gp2	inc/topology.h	/^        GeometricalPath     gp2;$/;"	m	struct:syc::topology::v_03::comparision	typeref:typename:GeometricalPath
+help	build/Makefile	/^help:$/;"	t
+id	inc/circular_frame.h	/^                id;             $/;"	m	struct:syc::topology::v_04::detail::topological_vertex	typeref:typename:std::size_t
+id	inc/topology.h	/^            unsigned                                id;$/;"	m	struct:syc::topology::v_02::detail::net_type	typeref:typename:unsigned
+id	inc/topology.h	/^            unsigned                                id;$/;"	m	struct:syc::topology::v_03::detail::net_type	typeref:typename:unsigned
+id	inc/topology.h	/^            unsigned        id;$/;"	m	struct:syc::topology::v_02::detail::io_pad	typeref:typename:unsigned
+id	inc/topology.h	/^            unsigned        id;$/;"	m	struct:syc::topology::v_03::detail::io_pad	typeref:typename:unsigned
+index	inc/topology.h	/^				std::size_t									index		=  1;		\/\/ reserved for algorithms, and reset_slice_indexes meth/;"	m	class:syc::topology::detail::v_01::slice_type	typeref:typename:std::size_t
+info_arch	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v	typeref:typename:char const *
+info_arch	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v	typeref:typename:char const *
+info_compiler	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v	typeref:typename:char const *
+info_compiler	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v	typeref:typename:char const *
+info_cray	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v	typeref:typename:char const *
+info_cray	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v	typeref:typename:char const *
+info_language_dialect_default	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^const char* info_language_dialect_default =$/;"	v	typeref:typename:const char *
+info_language_dialect_default	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_dialect_default = "INFO" ":" "dialect_default["$/;"	v	typeref:typename:const char *
+info_platform	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v	typeref:typename:char const *
+info_platform	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v	typeref:typename:char const *
+info_simulate	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v	typeref:typename:char const *
+info_simulate	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v	typeref:typename:char const *
+info_simulate_version	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^char const info_simulate_version[] = {$/;"	v	typeref:typename:char const[]
+info_simulate_version	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_simulate_version[] = {$/;"	v	typeref:typename:char const[]
+info_version	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^char const info_version[] = {$/;"	v	typeref:typename:char const[]
+info_version	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_version = "INFO" ":" "compiler_version[" COMPILER_VERSION "]";$/;"	v	typeref:typename:char const *
+info_version	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v	typeref:typename:char const[]
+info_version	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_version = "INFO" ":" "compiler_version[" COMPILER_VERSION "]";$/;"	v	typeref:typename:char const *
+info_version_internal	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^char const info_version_internal[] = {$/;"	v	typeref:typename:char const[]
+info_version_internal	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_version_internal = "INFO" ":" "compiler_version_internal[" COMPILER_VERSION_INT/;"	v	typeref:typename:char const *
+info_version_internal	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version_internal[] = {$/;"	v	typeref:typename:char const[]
+info_version_internal	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_version_internal = "INFO" ":" "compiler_version_internal[" COMPILER_VERSION_INT/;"	v	typeref:typename:char const *
+initial_weight	inc/topology.h	/^	initial_weight( Vertex s, Vertex t, IDXMap e_idx_mp ) $/;"	f	class:syc::topology::v_03::planar_orderd_forest_solution	typeref:typename:double
+initialize_topology	inc/topology.h	/^				initialize_topology( sketable_forest& f ): _F( f ) {}$/;"	f	class:syc::topology::detail::v_01::initialize_topology
+initialize_topology	inc/topology.h	/^		class initialize_topology : $/;"	c	namespace:syc::topology::detail::v_01
+io256	src/experiment2.cpp	/^    void io256( void )$/;"	f	namespace:Test	typeref:typename:void
+io300	src/experiment2.cpp	/^    void io300( void )$/;"	f	namespace:Test	typeref:typename:void
+io400	src/experiment2.cpp	/^    void io400( void )$/;"	f	namespace:Test	typeref:typename:void
+io500	src/experiment2.cpp	/^    void io500( void )$/;"	f	namespace:Test	typeref:typename:void
+io59	src/experiment2.cpp	/^    void io59( void )$/;"	f	namespace:Test	typeref:typename:void
+io99	src/experiment2.cpp	/^    void io99( void )$/;"	f	namespace:Test	typeref:typename:void
+io_pad	inc/topology.h	/^        struct io_pad$/;"	s	namespace:syc::topology::v_02::detail
+io_pad	inc/topology.h	/^        struct io_pad$/;"	s	namespace:syc::topology::v_03::detail
+is_MST_edge	inc/topology.h	/^				is_MST_edge( EdgeIndexMap m ): I( m ) {}$/;"	f	struct:syc::topology::detail::v_01::is_MST_edge
+is_MST_edge	inc/topology.h	/^				is_MST_edge( EdgeIndexMap m ): I( m ) {}$/;"	f	struct:syc::topology::v_02::detail::is_MST_edge
+is_MST_edge	inc/topology.h	/^				is_MST_edge( EdgeIndexMap m ): I( m ) {}$/;"	f	struct:syc::topology::v_03::detail::is_MST_edge
+is_MST_edge	inc/topology.h	/^			using is_MST_edge	= typename syc::topology::detail::v_01::is_MST_edge<EdgeIndxMap>;$/;"	t	function:syc::topology::model::v_01::topology_sketch_type::construct_sketchable_forest	typeref:typename:syc::topology::detail::v_01::is_MST_edge<EdgeIndxMap>
+is_MST_edge	inc/topology.h	/^		struct is_MST_edge $/;"	s	namespace:syc::topology::detail::v_01
+is_MST_edge	inc/topology.h	/^		struct is_MST_edge $/;"	s	namespace:syc::topology::v_02::detail
+is_MST_edge	inc/topology.h	/^		struct is_MST_edge $/;"	s	namespace:syc::topology::v_03::detail
+is_boundary_edge	inc/topology.h	/^				is_boundary_edge( EdgeIndexMap m ): I( m ) {}$/;"	f	struct:syc::topology::v_02::detail::is_boundary_edge
+is_boundary_edge	inc/topology.h	/^				is_boundary_edge( EdgeIndexMap m ): I( m ) {}$/;"	f	struct:syc::topology::v_03::detail::is_boundary_edge
+is_boundary_edge	inc/topology.h	/^		struct is_boundary_edge $/;"	s	namespace:syc::topology::v_02::detail
+is_boundary_edge	inc/topology.h	/^		struct is_boundary_edge $/;"	s	namespace:syc::topology::v_03::detail
+is_net_edge	inc/topology.h	/^				is_net_edge( EdgeIndexMap m ): I( m ) {}$/;"	f	struct:syc::topology::v_02::detail::is_net_edge
+is_net_edge	inc/topology.h	/^				is_net_edge( EdgeIndexMap m ): I( m ) {}$/;"	f	struct:syc::topology::v_03::detail::is_net_edge
+is_net_edge	inc/topology.h	/^		struct is_net_edge $/;"	s	namespace:syc::topology::v_02::detail
+is_net_edge	inc/topology.h	/^		struct is_net_edge $/;"	s	namespace:syc::topology::v_03::detail
+is_triangulation_edge	inc/topology.h	/^				is_triangulation_edge( EdgeIndexMap m ): I( m ) {}$/;"	f	struct:syc::topology::v_02::detail::is_triangulation_edge
+is_triangulation_edge	inc/topology.h	/^				is_triangulation_edge( EdgeIndexMap m ): I( m ) {}$/;"	f	struct:syc::topology::v_03::detail::is_triangulation_edge
+is_triangulation_edge	inc/topology.h	/^		struct is_triangulation_edge $/;"	s	namespace:syc::topology::v_02::detail
+is_triangulation_edge	inc/topology.h	/^		struct is_triangulation_edge $/;"	s	namespace:syc::topology::v_03::detail
+level	inc/topology.h	/^            unsigned        level;$/;"	m	struct:syc::topology::v_03::detail::compute_net_priority_and_dest_ordering	typeref:typename:unsigned
+linestring_type	inc/topology.h	/^				using linestring_type					= boost::geometry::model::linestring<point_type>;$/;"	t	class:syc::topology::model::v_01::topology_sketch_type	typeref:typename:boost::geometry::model::linestring<point_type>
+linestring_type	inc/topology.h	/^			using linestring_type		= boost::geometry::model::linestring<point_type>;$/;"	t	class:syc::topology::v_02::planar_orderd_forest_solution	typeref:typename:boost::geometry::model::linestring<point_type>
+linestring_type	inc/topology.h	/^			using linestring_type		= boost::geometry::model::linestring<point_type>;$/;"	t	class:syc::topology::v_03::planar_orderd_forest_solution	typeref:typename:boost::geometry::model::linestring<point_type>
+linestring_type	inc/topology.h	/^			using linestring_type	= typename CircularFrameSolution::linestring_type;$/;"	t	class:syc::topology::v_02::circular_frame	typeref:typename:CircularFrameSolution::linestring_type
+linestring_type	inc/topology.h	/^			using linestring_type	= typename CircularFrameSolution::linestring_type;$/;"	t	class:syc::topology::v_03::circular_frame	typeref:typename:CircularFrameSolution::linestring_type
+main	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^int main(argc, argv) int argc; char *argv[];$/;"	f
+main	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f	typeref:typename:void
+main	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f	typeref:typename:int
+main	src/demo_1.cpp	/^int main( int argc, char** argv )$/;"	f	typeref:typename:int
+main	src/demo_2.cpp	/^int main( int argc, char** argv )$/;"	f	typeref:typename:int
+main	src/demo_3.cpp	/^int main( int argc, char** argv )$/;"	f	typeref:typename:int
+main	src/demo_4.cpp	/^int main( int argc, char** argv )$/;"	f	typeref:typename:int
+main	src/demo_5.cpp	/^int main( int argc, char** argv )$/;"	f	typeref:typename:int
+main	src/demo_6.cpp	/^int main( int argc, char **argv )$/;"	f	typeref:typename:int
+main	src/examine_test_case.cpp	/^int main( int argc, char** argv ) $/;"	f	typeref:typename:int
+main	src/experiment.cpp	/^int main( int argc, char** argv ) $/;"	f	typeref:typename:int
+main	src/experiment2.cpp	/^int main( int argc, char** argv ) $/;"	f	typeref:typename:int
+main	src/test_circular_frame.cpp	/^int main( int argc, char** argv ) $/;"	f	typeref:typename:int
+main	src/test_dirtyarchieve.cpp	/^int main( int argc, char** argv ) $/;"	f	typeref:typename:int
+main	src/test_heuristic1_256.cpp	/^int main( int argc, char** argv ) $/;"	f	typeref:typename:int
+main	src/test_heuristic1_500.cpp	/^int main( int argc, char** argv ) $/;"	f	typeref:typename:int
+main	src/test_heuristic1_59.cpp	/^int main( int argc, char** argv ) $/;"	f	typeref:typename:int
+main	src/test_heuristic1_99.cpp	/^int main( int argc, char** argv ) $/;"	f	typeref:typename:int
+main	src/test_outter_routing.cpp	/^int main( int argc, char** argv ) $/;"	f	typeref:typename:int
+main	src/test_sample1.cpp	/^int main( int argc, char** argv ) $/;"	f	typeref:typename:int
+make_sketch	inc/topology.h	/^			make_sketch( void ) $/;"	f	class:syc::topology::model::v_01::sketchable_forest	typeref:typename:void
+make_slice	inc/topology.h	/^			make_slice( std::size_t const s, std::size_t const t ) -> std::size_t $/;"	f	class:syc::topology::model::v_01::sketchable_forest	typeref:typename:std::size_t
+make_slice	inc/topology.h	/^			make_slice( topo_descriptor const s, topo_descriptor const t ) -> topo_descriptor$/;"	f	class:syc::topology::model::v_01::sketchable_forest	typeref:typename:topo_descriptor
+make_slice_hierarchy	inc/topology.h	/^		make_slice_hierarchy( void ) $/;"	f	class:syc::topology::model::v_01::sketchable_forest	typeref:typename:void
+mapping_list	inc/circular_frame.h	/^        using   mapping_list            = std::list< std::vector< detail::topological_vertex > >/;"	t	namespace:syc::topology::v_04::decl	typeref:typename:std::list<std::vector<detail::topological_vertex>>
+mark_MST_edges	inc/topology.h	/^	mark_MST_edges( MOMMap v_mom_mp, IDXMap e_idx_mp ) $/;"	f	class:syc::topology::v_03::planar_orderd_forest_solution	typeref:typename:void
+mark_Planar_Ordered_Forest_edges	inc/topology.h	/^	mark_Planar_Ordered_Forest_edges( void ) $/;"	f	class:syc::topology::v_02::planar_orderd_forest_solution	typeref:typename:void
+mark_boundary_edges	inc/topology.h	/^	mark_boundary_edges( void ) $/;"	f	class:syc::topology::v_03::planar_orderd_forest_solution	typeref:typename:void
+mark_net_edges	inc/topology.h	/^	mark_net_edges( NetContainer const& nets )$/;"	f	class:syc::topology::v_02::planar_orderd_forest_solution	typeref:typename:void
+mark_net_edges	inc/topology.h	/^	mark_net_edges( NetContainer const& nets )$/;"	f	class:syc::topology::v_03::planar_orderd_forest_solution	typeref:typename:void
+model	inc/circular_frame.h	/^    namespace model$/;"	n	namespace:syc::topology::v_04
+model	inc/topology.h	/^	namespace model::v_01								\/\/ model for users$/;"	n	namespace:syc::topology
+mother	inc/circular_frame.h	/^                    mother;$/;"	m	struct:syc::topology::v_04::detail::slice	typeref:typename:decl::slice_descriptor
+mother	inc/topology.h	/^				std::list<slice_type>::iterator				mother;$/;"	m	class:syc::topology::detail::v_01::slice_type	typeref:typename:std::list<slice_type>::iterator
+n1	inc/topology.h	/^        CircularFrameNet    n1;$/;"	m	struct:syc::topology::v_03::comparision	typeref:typename:CircularFrameNet
+n2	inc/topology.h	/^        CircularFrameNet    n2;$/;"	m	struct:syc::topology::v_03::comparision	typeref:typename:CircularFrameNet
+name	inc/topology.h	/^            std::string                             name;$/;"	m	struct:syc::topology::v_02::detail::net_type	typeref:typename:std::string
+name	inc/topology.h	/^            std::string                             name;$/;"	m	struct:syc::topology::v_03::detail::net_type	typeref:typename:std::string
+net_order	inc/topology.h	/^            T               net_order;$/;"	m	struct:syc::topology::v_03::detail::compute_net_priority_and_dest_ordering	typeref:typename:T
+net_type	inc/topology.h	/^					using net_type				= detail::v_01::net_type_impl<coordinate_type>;$/;"	t	class:syc::topology::model::v_01::sketchable_forest	typeref:typename:detail::v_01::net_type_impl<coordinate_type>
+net_type	inc/topology.h	/^				using net_type							= typename boost::graph_traits<typename sketchable_forest_type::net_typ/;"	t	class:syc::topology::model::v_01::topology_sketch_type	typeref:typename:boost::graph_traits<typename sketchable_forest_type::net_type>::edge_descriptor
+net_type	inc/topology.h	/^        struct net_type $/;"	s	namespace:syc::topology::v_02::detail
+net_type	inc/topology.h	/^        struct net_type $/;"	s	namespace:syc::topology::v_03::detail
+net_type_impl	inc/topology.h	/^		using net_type_impl = $/;"	t	namespace:syc::topology::detail::v_01
+nets	inc/topology.h	/^					net_type		nets;						\/\/ reserved only for two pin nets$/;"	m	class:syc::topology::model::v_01::sketchable_forest	typeref:typename:net_type
+nets	inc/topology.h	/^            NetSeq              nets;$/;"	m	class:syc::topology::v_02::package_data	typeref:typename:NetSeq
+nets	inc/topology.h	/^            NetSeq              nets;$/;"	m	class:syc::topology::v_03::package_data	typeref:typename:NetSeq
+nex	inc/topology.h	/^				std::list<slice_type>::iterator				nex;$/;"	m	class:syc::topology::detail::v_01::slice_type	typeref:typename:std::list<slice_type>::iterator
+non_tree_edge	inc/topology.h	/^					void non_tree_edge( Edge e, Graph const& g )  $/;"	f	class:syc::topology::detail::v_01::build_sketchable_forest	typeref:typename:void
+non_tree_edge	inc/topology.h	/^					void non_tree_edge( Edge e, Graph const& g )  $/;"	f	class:syc::topology::v_02::detail::build_sketchable_forest	typeref:typename:void
+non_tree_edge	inc/topology.h	/^					void non_tree_edge( Edge e, Graph const& g )  $/;"	f	class:syc::topology::v_03::detail::build_directed_forest	typeref:typename:void
+non_tree_edge	inc/topology.h	/^					void non_tree_edge( Edge e, Graph const& g )  $/;"	f	class:syc::topology::v_03::detail::build_sketchable_forest	typeref:typename:void
+num_leafs	inc/topology.h	/^			std::size_t			                    num_leafs;$/;"	m	class:syc::topology::v_03::planar_orderd_forest_solution	typeref:typename:std::size_t
+num_leafs	inc/topology.h	/^			std::size_t			num_leafs;$/;"	m	class:syc::topology::v_02::planar_orderd_forest_solution	typeref:typename:std::size_t
+num_roots	inc/circular_frame.h	/^            std::size_t num_roots( void ) { return _num_roots; }$/;"	f	struct:syc::topology::v_04::planar_directed_forset_solution	typeref:typename:std::size_t
+num_roots	inc/topology.h	/^			std::size_t			                    num_roots;$/;"	m	class:syc::topology::v_03::planar_orderd_forest_solution	typeref:typename:std::size_t
+num_roots	inc/topology.h	/^			std::size_t			num_roots;$/;"	m	class:syc::topology::v_02::planar_orderd_forest_solution	typeref:typename:std::size_t
+num_vertices	inc/circular_frame.h	/^            std::size_t num_vertices( void ) { return this->size(); }$/;"	f	struct:syc::topology::v_04::planar_directed_forset_solution	typeref:typename:std::size_t
+operator ()	inc/topology.h	/^				bool operator()( const Edge& e ) const $/;"	f	struct:syc::topology::detail::v_01::is_MST_edge	typeref:typename:bool
+operator ()	inc/topology.h	/^				bool operator()( const Edge& e ) const $/;"	f	struct:syc::topology::v_02::detail::is_MST_edge	typeref:typename:bool
+operator ()	inc/topology.h	/^				bool operator()( const Edge& e ) const $/;"	f	struct:syc::topology::v_02::detail::is_boundary_edge	typeref:typename:bool
+operator ()	inc/topology.h	/^				bool operator()( const Edge& e ) const $/;"	f	struct:syc::topology::v_02::detail::is_net_edge	typeref:typename:bool
+operator ()	inc/topology.h	/^				bool operator()( const Edge& e ) const $/;"	f	struct:syc::topology::v_02::detail::is_triangulation_edge	typeref:typename:bool
+operator ()	inc/topology.h	/^				bool operator()( const Edge& e ) const $/;"	f	struct:syc::topology::v_03::detail::is_MST_edge	typeref:typename:bool
+operator ()	inc/topology.h	/^				bool operator()( const Edge& e ) const $/;"	f	struct:syc::topology::v_03::detail::is_boundary_edge	typeref:typename:bool
+operator ()	inc/topology.h	/^				bool operator()( const Edge& e ) const $/;"	f	struct:syc::topology::v_03::detail::is_net_edge	typeref:typename:bool
+operator ()	inc/topology.h	/^				bool operator()( const Edge& e ) const $/;"	f	struct:syc::topology::v_03::detail::is_triangulation_edge	typeref:typename:bool
+ordering_pair	inc/topology.h	/^			ordering_pair( topo_descriptor const d ) -> topo_descriptor$/;"	f	class:syc::topology::model::v_01::sketchable_forest	typeref:typename:topo_descriptor
+package_data	inc/topology.h	/^    class package_data  $/;"	c	namespace:syc::topology::v_02
+package_data	inc/topology.h	/^    class package_data  $/;"	c	namespace:syc::topology::v_03
+package_data	inc/topology.h	/^    package_data( std::string const& ViaResults_FileName, std::string const& IoDrc_FileName )$/;"	f	class:syc::topology::v_02::package_data
+package_data	inc/topology.h	/^    package_data( std::string const& ViaResults_FileName, std::string const& IoDrc_FileName )$/;"	f	class:syc::topology::v_03::package_data
+packagesizeX	inc/topology.h	/^            CoordinateType      packagesizeX;$/;"	m	class:syc::topology::v_02::package_data	typeref:typename:CoordinateType
+packagesizeX	inc/topology.h	/^            CoordinateType      packagesizeX;$/;"	m	class:syc::topology::v_03::package_data	typeref:typename:CoordinateType
+packagesizeY	inc/topology.h	/^            CoordinateType      packagesizeY;$/;"	m	class:syc::topology::v_02::package_data	typeref:typename:CoordinateType
+packagesizeY	inc/topology.h	/^            CoordinateType      packagesizeY;$/;"	m	class:syc::topology::v_03::package_data	typeref:typename:CoordinateType
+pads	inc/topology.h	/^            std::vector< io_pad< CoordinateType > > pads;   \/\/ finger, bump, via$/;"	m	struct:syc::topology::v_02::detail::net_type	typeref:typename:std::vector<io_pad<CoordinateType>>
+pads	inc/topology.h	/^            std::vector< io_pad< CoordinateType > > pads;   \/\/ finger, bump, via$/;"	m	struct:syc::topology::v_03::detail::net_type	typeref:typename:std::vector<io_pad<CoordinateType>>
+perturb	inc/topology.h	/^	perturb( void )$/;"	f	class:syc::topology::v_02::planar_orderd_forest_solution	typeref:typename:void
+perturb	inc/topology.h	/^	perturb( void )$/;"	f	class:syc::topology::v_03::planar_orderd_forest_solution	typeref:typename:void
+planar_directed_forset_solution	inc/circular_frame.h	/^	struct planar_directed_forset_solution :$/;"	s	namespace:syc::topology::v_04
+planar_orderd_forest_solution	inc/topology.h	/^	class planar_orderd_forest_solution:$/;"	c	namespace:syc::topology::v_02
+planar_orderd_forest_solution	inc/topology.h	/^	class planar_orderd_forest_solution:$/;"	c	namespace:syc::topology::v_03
+planar_orderd_forest_solution	inc/topology.h	/^	planar_orderd_forest_solution( RootContainer&& roots, LeafContainer&& leafs, NetContainer&& net/;"	f	class:syc::topology::v_02::planar_orderd_forest_solution
+planar_orderd_forest_solution	inc/topology.h	/^	planar_orderd_forest_solution( RootContainer&& roots, LeafContainer&& leafs, NetContainer&& net/;"	f	class:syc::topology::v_03::planar_orderd_forest_solution
+plot	inc/gnugraph.h	/^					void plot( std::string const& option ) $/;"	f	class:syc::gnuplot::v_01::gnugraph	typeref:typename:void
+plot	inc/topology.h	/^		plot( string name, VecLinestring const& GPs ) const $/;"	f	class:syc::topology::model::v_01::topology_sketch_type	typeref:typename:void
+plot_datafile_with_labels_point	inc/gnugraph.h	/^				plot_datafile_with_labels_point( StringType1 const& data_file_name, StringType2 const& title/;"	f	class:syc::gnuplot::v_01::gnugraph	typeref:typename:std::shared_ptr<std::ofstream>
+plot_datafile_with_lines	inc/gnugraph.h	/^				plot_datafile_with_lines( StringType1 const& data_file_name, StringType2 const& title_name, /;"	f	class:syc::gnuplot::v_01::gnugraph	typeref:typename:std::shared_ptr<std::ofstream>
+plot_datafile_with_points	inc/gnugraph.h	/^				plot_datafile_with_points( StringType1 const& data_file_name, StringType2 const& title_name,/;"	f	class:syc::gnuplot::v_01::gnugraph	typeref:typename:std::shared_ptr<std::ofstream>
+point	inc/topology.h	/^			auto    point( std::size_t u ) { return this->_points[ u ]; }$/;"	f	class:syc::topology::v_03::planar_orderd_forest_solution	typeref:typename:auto
+point	inc/topology.h	/^			auto point( std::size_t u ) { return this->_points[ u ]; }$/;"	f	class:syc::topology::v_02::planar_orderd_forest_solution	typeref:typename:auto
+point_order	inc/topology.h	/^    struct point_order<std::vector<boost::polygon::point_data<double>>>$/;"	s	namespace:boost::geometry
+point_traits	inc/topology.h	/^				struct point_traits<typename boost::geometry::model::d2::point_xy<CoordinateType>>$/;"	s	namespace:boost::polygon
+point_type	inc/topology.h	/^				using point_type						= PointType;$/;"	t	class:syc::topology::model::v_01::topology_sketch_type	typeref:typename:PointType
+point_type	inc/topology.h	/^			using point_type			= PointType;$/;"	t	class:syc::topology::v_02::planar_orderd_forest_solution	typeref:typename:PointType
+point_type	inc/topology.h	/^			using point_type			= PointType;$/;"	t	class:syc::topology::v_03::planar_orderd_forest_solution	typeref:typename:PointType
+point_type	inc/topology.h	/^			using point_type		= typename CircularFrameSolution::point_type;$/;"	t	class:syc::topology::v_02::circular_frame	typeref:typename:CircularFrameSolution::point_type
+point_type	inc/topology.h	/^			using point_type		= typename CircularFrameSolution::point_type;$/;"	t	class:syc::topology::v_03::circular_frame	typeref:typename:CircularFrameSolution::point_type
+point_type	inc/topology.h	/^        using point_type        = PointType;$/;"	t	class:syc::topology::v_03::package_data	typeref:typename:PointType
+point_type	src/demo_6.cpp	/^	using point_type = typename planar_orderd_forest_solution< double >::point_type;$/;"	t	function:generate_test_case	typeref:typename:planar_orderd_forest_solution<double>::point_type	file:
+point_type	src/test_dirtyarchieve.cpp	/^	using point_type				= sketch_type::point_type;$/;"	t	function:topology_test_1	typeref:typename:sketch_type::point_type	file:
+point_type	src/test_dirtyarchieve.cpp	/^	using point_type				= sketch_type::point_type;$/;"	t	function:topology_test_2	typeref:typename:sketch_type::point_type	file:
+point_type	src/test_dirtyarchieve.cpp	/^	using point_type				= sketch_type::point_type;$/;"	t	function:topology_test_3	typeref:typename:sketch_type::point_type	file:
+point_type	src/test_dirtyarchieve.cpp	/^	using point_type	= typename Sol::point_type;$/;"	t	function:randomly_generate_a_case	typeref:typename:Sol::point_type	file:
+point_type	src/test_dirtyarchieve.cpp	/^	using point_type = typename syc::topology::v_02::planar_orderd_forest_solution< double >::point/;"	t	function:generate_test_case1	typeref:typename:syc::topology::v_02::planar_orderd_forest_solution<double>::point_type	file:
+point_type	src/test_sample1.cpp	/^	using point_type = typename planar_orderd_forest_solution< double >::point_type;$/;"	t	function:generate_test_case	typeref:typename:planar_orderd_forest_solution<double>::point_type	file:
+polygon	inc/topology.h	/^		namespace polygon $/;"	n	namespace:boost
+position	inc/circular_frame.h	/^                position;       $/;"	m	struct:syc::topology::v_04::detail::topological_vertex	typeref:typename:decl::circular_descriptor
+position	inc/topology.h	/^						position;$/;"	m	class:syc::topology::model::v_01::sketchable_forest	typeref:typename:std::vector<typename topology_type::iterator>
+pre	inc/topology.h	/^				std::list<slice_type>::iterator				pre;$/;"	m	class:syc::topology::detail::v_01::slice_type	typeref:typename:std::list<slice_type>::iterator
+preinstall	build/Makefile	/^preinstall: all$/;"	t
+preinstall/fast	build/Makefile	/^preinstall\/fast:$/;"	t
+pretty_printer	inc/topology.h	/^			pretty_printer( void ) const $/;"	f	class:syc::topology::model::v_01::sketchable_forest	typeref:typename:void
+print	inc/topology.h	/^	print( std::ostream& os )$/;"	f	class:syc::topology::v_02::planar_orderd_forest_solution	typeref:typename:void
+print	inc/topology.h	/^	print( std::ostream& os )$/;"	f	class:syc::topology::v_03::planar_orderd_forest_solution	typeref:typename:void
+print_all_2_pin_nets	inc/topology.h	/^		print_all_2_pin_nets( void ) const $/;"	f	class:syc::topology::model::v_01::sketchable_forest	typeref:typename:void
+print_capacities	inc/topology.h	/^				void print_capacities( std::size_t u, std::size_t v ) const$/;"	f	class:syc::topology::model::v_01::topology_sketch_type	typeref:typename:void
+print_capacities	inc/topology.h	/^				void print_capacities( void ) const$/;"	f	class:syc::topology::model::v_01::topology_sketch_type	typeref:typename:void
+proj_to_bdry	inc/topology.h	/^    proj_to_bdry( PointType const& c, MultiPoint const& P )$/;"	f	class:syc::topology::v_03::package_data	typeref:typename:auto
+qnxnto	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v	typeref:typename:char const *
+qnxnto	build/CMakeFiles/3.21.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v	typeref:typename:char const *
+random_shuffle	inc/topology.h	/^    random_shuffle( detail::io_pad< CoordinateType >& p, std::uniform_real_distribution<Coordina/;"	f	class:syc::topology::v_02::package_data	typeref:typename:void
+random_shuffle	inc/topology.h	/^    random_shuffle( detail::io_pad< CoordinateType >& p, std::uniform_real_distribution<Coordina/;"	f	class:syc::topology::v_03::package_data	typeref:typename:void
+randomly_generate_a_case	src/test_dirtyarchieve.cpp	/^auto randomly_generate_a_case( double packagesizeX, double packagesizeY, unsigned num_nets_per_s/;"	f	typeref:typename:auto
+read_io_drc_file	inc/topology.h	/^    read_io_drc_file( std::string const& IoDrc_FileName )$/;"	f	class:syc::topology::v_02::package_data	typeref:typename:void
+read_io_drc_file	inc/topology.h	/^    read_io_drc_file( std::string const& IoDrc_FileName )$/;"	f	class:syc::topology::v_03::package_data	typeref:typename:void
+read_via_results_file	inc/topology.h	/^    read_via_results_file( std::string const& ViaResults_FileName )$/;"	f	class:syc::topology::v_02::package_data	typeref:typename:void
+read_via_results_file	inc/topology.h	/^    read_via_results_file( std::string const& ViaResults_FileName )$/;"	f	class:syc::topology::v_03::package_data	typeref:typename:void
+realization	inc/topology.h	/^		realization( void ) -> std::vector<linestring_type>$/;"	f	class:syc::topology::model::v_01::topology_sketch_type	typeref:typename:std::vector<linestring_type>
+realization	inc/topology.h	/^	realization( double spacing ) $/;"	f	class:syc::topology::v_03::circular_frame	typeref:typename:auto
+realization	inc/topology.h	/^	realization( void ) $/;"	f	class:syc::topology::v_02::circular_frame	typeref:typename:auto
+rebuild_cache	build/Makefile	/^rebuild_cache:$/;"	t
+rebuild_cache/fast	build/Makefile	/^rebuild_cache\/fast: rebuild_cache$/;"	t
+reorder_nets_by_computing_cross_product_of_finger_position	inc/topology.h	/^    reorder_nets_by_computing_cross_product_of_finger_position( void )$/;"	f	class:syc::topology::v_03::package_data	typeref:typename:void
+reset_slice_indexes	inc/topology.h	/^			reset_slice_indexes( void ) -> void$/;"	f	class:syc::topology::model::v_01::sketchable_forest	typeref:typename:void
+result_type	inc/topology.h	/^					using result_type			= std::vector<std::list<std::pair<std::size_t, int>>>;$/;"	t	class:syc::topology::model::v_01::sketchable_forest	typeref:typename:std::vector<std::list<std::pair<std::size_t,int>>>
+results	inc/topology.h	/^		results( void ) -> std::vector<std::list<std::pair<std::size_t, int>>>$/;"	f	class:syc::topology::model::v_01::sketchable_forest	typeref:typename:std::vector<std::list<std::pair<std::size_t,int>>>
+return_type	src/test_dirtyarchieve.cpp	/^	using return_type	= std::tuple<std::vector<point_type>, std::vector<point_type>, std::vector<st/;"	t	function:randomly_generate_a_case	file:
+search	inc/topology.h	/^		search( typename sketchable_forest_type::topo_descriptor& h, std::size_t const& u, sketchable_/;"	f	class:syc::topology::model::v_01::topology_sketch_type	typeref:typename:bool
+search2	inc/topology.h	/^		topology_sketch_type<CoordinateType, PointType>::search2( $/;"	f	class:syc::topology::model::v_01::topology_sketch_type	typeref:typename:bool
+second	inc/topology.h	/^				std::size_t									second		= -1; $/;"	m	class:syc::topology::detail::v_01::slice_type	typeref:typename:std::size_t
+set_edge_weight	inc/topology.h	/^	set_edge_weight( IDXMap e_idx_mp, WGTMap e_wgt_mp ) $/;"	f	class:syc::topology::v_03::planar_orderd_forest_solution	typeref:typename:void
+set_mother_vertex_property	inc/topology.h	/^				set_mother_vertex_property( PMap m ): _m( m ) {}$/;"	f	struct:syc::topology::v_02::detail::set_mother_vertex_property
+set_mother_vertex_property	inc/topology.h	/^		struct set_mother_vertex_property: public boost::default_bfs_visitor $/;"	s	namespace:syc::topology::v_02::detail
+set_object_circle	inc/gnugraph.h	/^				set_object_circle( T1 x, T2 y, T3 s, std::string const& other_object_properties, std::string/;"	f	class:syc::gnuplot::v_01::gnugraph	typeref:typename:unsigned
+set_object_rectangle	inc/gnugraph.h	/^				set_object_rectangle( T1 x, T2 y, T3 w, T4 h, std::string const& other_object_properties, st/;"	f	class:syc::gnuplot::v_01::gnugraph	typeref:typename:unsigned
+set_output	inc/gnugraph.h	/^				set_output( StringType const& output_name )$/;"	f	class:syc::gnuplot::v_01::gnugraph	typeref:typename:void
+set_style_line	inc/gnugraph.h	/^				set_style_line( StringType const& styles )$/;"	f	class:syc::gnuplot::v_01::gnugraph	typeref:typename:unsigned
+set_terminal	inc/gnugraph.h	/^				set_terminal( StringType const& terminal_name )$/;"	f	class:syc::gnuplot::v_01::gnugraph	typeref:typename:void
+set_title	inc/gnugraph.h	/^				set_title( StringType const& name ) $/;"	f	class:syc::gnuplot::v_01::gnugraph	typeref:typename:void
+set_xrange	inc/gnugraph.h	/^				set_xrange( T1 const l, T2 const u, std::string const& precision ) $/;"	f	class:syc::gnuplot::v_01::gnugraph	typeref:typename:void
+set_yrange	inc/gnugraph.h	/^				set_yrange( T1 const l, T2 const u, std::string const& precision ) $/;"	f	class:syc::gnuplot::v_01::gnugraph	typeref:typename:void
+shortest_direction	inc/topology.h	/^			shortest_direction( topo_descriptor s, topo_descriptor t )  \/\/ CW: false. CCW: true.$/;"	f	class:syc::topology::model::v_01::sketchable_forest	typeref:typename:bool
+sketch	inc/topology.h	/^					sketch_type 	sketch;$/;"	m	class:syc::topology::model::v_01::sketchable_forest	typeref:typename:sketch_type
+sketch_type	inc/topology.h	/^					using sketch_type 			= std::list<slice_type>;$/;"	t	class:syc::topology::model::v_01::sketchable_forest	typeref:typename:std::list<slice_type>
+sketch_type	src/test_dirtyarchieve.cpp	/^	using sketch_type				= syc::topology::model::v_01::topology_sketch_type<coordinate_type>;$/;"	t	function:topology_test_1	typeref:typename:syc::topology::model::v_01::topology_sketch_type<coordinate_type>	file:
+sketch_type	src/test_dirtyarchieve.cpp	/^	using sketch_type				= syc::topology::model::v_01::topology_sketch_type<coordinate_type>;$/;"	t	function:topology_test_2	typeref:typename:syc::topology::model::v_01::topology_sketch_type<coordinate_type>	file:
+sketch_type	src/test_dirtyarchieve.cpp	/^	using sketch_type				= syc::topology::model::v_01::topology_sketch_type<coordinate_type>;$/;"	t	function:topology_test_3	typeref:typename:syc::topology::model::v_01::topology_sketch_type<coordinate_type>	file:
+sketchable_forest	inc/topology.h	/^					sketchable_forest( std::size_t n ): $/;"	f	class:syc::topology::model::v_01::sketchable_forest
+sketchable_forest	inc/topology.h	/^					sketchable_forest(): $/;"	f	class:syc::topology::model::v_01::sketchable_forest
+sketchable_forest	inc/topology.h	/^			class sketchable_forest$/;"	c	namespace:syc::topology::model::v_01
+sketchable_forest_type	inc/topology.h	/^				using sketchable_forest_type			= syc::topology::model::v_01::sketchable_forest<CoordinateTyp/;"	t	class:syc::topology::model::v_01::topology_sketch_type	typeref:typename:syc::topology::model::v_01::sketchable_forest<CoordinateType,PointType>
+sketchable_forest_type	src/test_dirtyarchieve.cpp	/^	using sketchable_forest_type	= syc::topology::model::v_01::sketchable_forest<coordinate_type>;$/;"	t	function:topology_test_1	typeref:typename:syc::topology::model::v_01::sketchable_forest<coordinate_type>	file:
+sketchable_forest_type	src/test_dirtyarchieve.cpp	/^	using sketchable_forest_type	= syc::topology::model::v_01::sketchable_forest<coordinate_type>;$/;"	t	function:topology_test_2	typeref:typename:syc::topology::model::v_01::sketchable_forest<coordinate_type>	file:
+sketchable_forest_type	src/test_dirtyarchieve.cpp	/^	using sketchable_forest_type	= syc::topology::model::v_01::sketchable_forest<coordinate_type>;$/;"	t	function:topology_test_3	typeref:typename:syc::topology::model::v_01::sketchable_forest<coordinate_type>	file:
+slice	inc/circular_frame.h	/^        struct slice : public decl::slice_base$/;"	s	namespace:syc::topology::v_04::detail
+slice	inc/topology.h	/^			slice( topo_descriptor const d ) -> slice_descriptor	$/;"	f	class:syc::topology::model::v_01::sketchable_forest	typeref:typename:slice_descriptor
+slice_base	inc/circular_frame.h	/^        using   slice_base              = std::list< std::tuple< std::size_t, mapping_list::iter/;"	t	namespace:syc::topology::v_04::decl	typeref:typename:std::list<std::tuple<std::size_t,mapping_list::iterator,unsigned>>
+slice_descriptor	inc/circular_frame.h	/^        using   slice_descriptor        = std::list< slice_base >::iterator;$/;"	t	namespace:syc::topology::v_04::decl	typeref:typename:std::list<slice_base>::iterator
+slice_descriptor	inc/topology.h	/^					using slice_descriptor		= typename sketch_type::iterator;$/;"	t	class:syc::topology::model::v_01::sketchable_forest	typeref:typename:sketch_type::iterator
+slice_list	inc/circular_frame.h	/^        class slice_list $/;"	c	namespace:syc::topology::v_04::model
+slice_type	inc/topology.h	/^					using slice_type 			= detail::v_01::slice_type;$/;"	t	class:syc::topology::model::v_01::sketchable_forest	typeref:typename:detail::v_01::slice_type
+slice_type	inc/topology.h	/^				slice_type( $/;"	f	class:syc::topology::detail::v_01::slice_type
+slice_type	inc/topology.h	/^		class slice_type $/;"	c	namespace:syc::topology::detail::v_01
+sort_by_net	inc/topology.h	/^    auto comparision< CircularFrameNet, GeometricalPath >::sort_by_net( CircularFrameNet& n )$/;"	f	class:syc::topology::v_03::comparision	typeref:typename:auto
+sort_by_net_name_256	src/test_heuristic1_256.cpp	/^void sort_by_net_name_256 ( NetSeq& nets )$/;"	f	typeref:typename:void
+sort_by_net_name_256	src/test_outter_routing.cpp	/^void sort_by_net_name_256 ( NetSeq& nets )$/;"	f	typeref:typename:void
+sort_by_net_name_529	src/test_heuristic1_500.cpp	/^void sort_by_net_name_529 ( NetSeq& nets )$/;"	f	typeref:typename:void
+spacing	inc/topology.h	/^            CoordinateType      spacing;$/;"	m	class:syc::topology::v_02::package_data	typeref:typename:CoordinateType
+spacing	inc/topology.h	/^            CoordinateType      spacing;$/;"	m	class:syc::topology::v_03::package_data	typeref:typename:CoordinateType
+src/demo_1.cpp.i	build/Makefile	/^src\/demo_1.cpp.i:$/;"	t
+src/demo_1.cpp.o	build/Makefile	/^src\/demo_1.cpp.o:$/;"	t
+src/demo_1.cpp.s	build/Makefile	/^src\/demo_1.cpp.s:$/;"	t
+src/demo_1.i	build/Makefile	/^src\/demo_1.i: src\/demo_1.cpp.i$/;"	t
+src/demo_1.o	build/Makefile	/^src\/demo_1.o: src\/demo_1.cpp.o$/;"	t
+src/demo_1.s	build/Makefile	/^src\/demo_1.s: src\/demo_1.cpp.s$/;"	t
+src/demo_2.cpp.i	build/Makefile	/^src\/demo_2.cpp.i:$/;"	t
+src/demo_2.cpp.o	build/Makefile	/^src\/demo_2.cpp.o:$/;"	t
+src/demo_2.cpp.s	build/Makefile	/^src\/demo_2.cpp.s:$/;"	t
+src/demo_2.i	build/Makefile	/^src\/demo_2.i: src\/demo_2.cpp.i$/;"	t
+src/demo_2.o	build/Makefile	/^src\/demo_2.o: src\/demo_2.cpp.o$/;"	t
+src/demo_2.s	build/Makefile	/^src\/demo_2.s: src\/demo_2.cpp.s$/;"	t
+src/demo_3.cpp.i	build/Makefile	/^src\/demo_3.cpp.i:$/;"	t
+src/demo_3.cpp.o	build/Makefile	/^src\/demo_3.cpp.o:$/;"	t
+src/demo_3.cpp.s	build/Makefile	/^src\/demo_3.cpp.s:$/;"	t
+src/demo_3.i	build/Makefile	/^src\/demo_3.i: src\/demo_3.cpp.i$/;"	t
+src/demo_3.o	build/Makefile	/^src\/demo_3.o: src\/demo_3.cpp.o$/;"	t
+src/demo_3.s	build/Makefile	/^src\/demo_3.s: src\/demo_3.cpp.s$/;"	t
+src/demo_4.cpp.i	build/Makefile	/^src\/demo_4.cpp.i:$/;"	t
+src/demo_4.cpp.o	build/Makefile	/^src\/demo_4.cpp.o:$/;"	t
+src/demo_4.cpp.s	build/Makefile	/^src\/demo_4.cpp.s:$/;"	t
+src/demo_4.i	build/Makefile	/^src\/demo_4.i: src\/demo_4.cpp.i$/;"	t
+src/demo_4.o	build/Makefile	/^src\/demo_4.o: src\/demo_4.cpp.o$/;"	t
+src/demo_4.s	build/Makefile	/^src\/demo_4.s: src\/demo_4.cpp.s$/;"	t
+src/demo_5.cpp.i	build/Makefile	/^src\/demo_5.cpp.i:$/;"	t
+src/demo_5.cpp.o	build/Makefile	/^src\/demo_5.cpp.o:$/;"	t
+src/demo_5.cpp.s	build/Makefile	/^src\/demo_5.cpp.s:$/;"	t
+src/demo_5.i	build/Makefile	/^src\/demo_5.i: src\/demo_5.cpp.i$/;"	t
+src/demo_5.o	build/Makefile	/^src\/demo_5.o: src\/demo_5.cpp.o$/;"	t
+src/demo_5.s	build/Makefile	/^src\/demo_5.s: src\/demo_5.cpp.s$/;"	t
+src/demo_6.cpp.i	build/Makefile	/^src\/demo_6.cpp.i:$/;"	t
+src/demo_6.cpp.o	build/Makefile	/^src\/demo_6.cpp.o:$/;"	t
+src/demo_6.cpp.s	build/Makefile	/^src\/demo_6.cpp.s:$/;"	t
+src/demo_6.i	build/Makefile	/^src\/demo_6.i: src\/demo_6.cpp.i$/;"	t
+src/demo_6.o	build/Makefile	/^src\/demo_6.o: src\/demo_6.cpp.o$/;"	t
+src/demo_6.s	build/Makefile	/^src\/demo_6.s: src\/demo_6.cpp.s$/;"	t
+src/examine_test_case.cpp.i	build/Makefile	/^src\/examine_test_case.cpp.i:$/;"	t
+src/examine_test_case.cpp.o	build/Makefile	/^src\/examine_test_case.cpp.o:$/;"	t
+src/examine_test_case.cpp.s	build/Makefile	/^src\/examine_test_case.cpp.s:$/;"	t
+src/examine_test_case.i	build/Makefile	/^src\/examine_test_case.i: src\/examine_test_case.cpp.i$/;"	t
+src/examine_test_case.o	build/Makefile	/^src\/examine_test_case.o: src\/examine_test_case.cpp.o$/;"	t
+src/examine_test_case.s	build/Makefile	/^src\/examine_test_case.s: src\/examine_test_case.cpp.s$/;"	t
+src/experiment.cpp.i	build/Makefile	/^src\/experiment.cpp.i:$/;"	t
+src/experiment.cpp.o	build/Makefile	/^src\/experiment.cpp.o:$/;"	t
+src/experiment.cpp.s	build/Makefile	/^src\/experiment.cpp.s:$/;"	t
+src/experiment.i	build/Makefile	/^src\/experiment.i: src\/experiment.cpp.i$/;"	t
+src/experiment.o	build/Makefile	/^src\/experiment.o: src\/experiment.cpp.o$/;"	t
+src/experiment.s	build/Makefile	/^src\/experiment.s: src\/experiment.cpp.s$/;"	t
+src/experiment2.cpp.i	build/Makefile	/^src\/experiment2.cpp.i:$/;"	t
+src/experiment2.cpp.o	build/Makefile	/^src\/experiment2.cpp.o:$/;"	t
+src/experiment2.cpp.s	build/Makefile	/^src\/experiment2.cpp.s:$/;"	t
+src/experiment2.i	build/Makefile	/^src\/experiment2.i: src\/experiment2.cpp.i$/;"	t
+src/experiment2.o	build/Makefile	/^src\/experiment2.o: src\/experiment2.cpp.o$/;"	t
+src/experiment2.s	build/Makefile	/^src\/experiment2.s: src\/experiment2.cpp.s$/;"	t
+src/test_dirtyarchieve.cpp.i	build/Makefile	/^src\/test_dirtyarchieve.cpp.i:$/;"	t
+src/test_dirtyarchieve.cpp.o	build/Makefile	/^src\/test_dirtyarchieve.cpp.o:$/;"	t
+src/test_dirtyarchieve.cpp.s	build/Makefile	/^src\/test_dirtyarchieve.cpp.s:$/;"	t
+src/test_dirtyarchieve.i	build/Makefile	/^src\/test_dirtyarchieve.i: src\/test_dirtyarchieve.cpp.i$/;"	t
+src/test_dirtyarchieve.o	build/Makefile	/^src\/test_dirtyarchieve.o: src\/test_dirtyarchieve.cpp.o$/;"	t
+src/test_dirtyarchieve.s	build/Makefile	/^src\/test_dirtyarchieve.s: src\/test_dirtyarchieve.cpp.s$/;"	t
+src/test_heuristic1_256.cpp.i	build/Makefile	/^src\/test_heuristic1_256.cpp.i:$/;"	t
+src/test_heuristic1_256.cpp.o	build/Makefile	/^src\/test_heuristic1_256.cpp.o:$/;"	t
+src/test_heuristic1_256.cpp.s	build/Makefile	/^src\/test_heuristic1_256.cpp.s:$/;"	t
+src/test_heuristic1_256.i	build/Makefile	/^src\/test_heuristic1_256.i: src\/test_heuristic1_256.cpp.i$/;"	t
+src/test_heuristic1_256.o	build/Makefile	/^src\/test_heuristic1_256.o: src\/test_heuristic1_256.cpp.o$/;"	t
+src/test_heuristic1_256.s	build/Makefile	/^src\/test_heuristic1_256.s: src\/test_heuristic1_256.cpp.s$/;"	t
+src/test_heuristic1_500.cpp.i	build/Makefile	/^src\/test_heuristic1_500.cpp.i:$/;"	t
+src/test_heuristic1_500.cpp.o	build/Makefile	/^src\/test_heuristic1_500.cpp.o:$/;"	t
+src/test_heuristic1_500.cpp.s	build/Makefile	/^src\/test_heuristic1_500.cpp.s:$/;"	t
+src/test_heuristic1_500.i	build/Makefile	/^src\/test_heuristic1_500.i: src\/test_heuristic1_500.cpp.i$/;"	t
+src/test_heuristic1_500.o	build/Makefile	/^src\/test_heuristic1_500.o: src\/test_heuristic1_500.cpp.o$/;"	t
+src/test_heuristic1_500.s	build/Makefile	/^src\/test_heuristic1_500.s: src\/test_heuristic1_500.cpp.s$/;"	t
+src/test_heuristic1_59.cpp.i	build/Makefile	/^src\/test_heuristic1_59.cpp.i:$/;"	t
+src/test_heuristic1_59.cpp.o	build/Makefile	/^src\/test_heuristic1_59.cpp.o:$/;"	t
+src/test_heuristic1_59.cpp.s	build/Makefile	/^src\/test_heuristic1_59.cpp.s:$/;"	t
+src/test_heuristic1_59.i	build/Makefile	/^src\/test_heuristic1_59.i: src\/test_heuristic1_59.cpp.i$/;"	t
+src/test_heuristic1_59.o	build/Makefile	/^src\/test_heuristic1_59.o: src\/test_heuristic1_59.cpp.o$/;"	t
+src/test_heuristic1_59.s	build/Makefile	/^src\/test_heuristic1_59.s: src\/test_heuristic1_59.cpp.s$/;"	t
+src/test_heuristic1_99.cpp.i	build/Makefile	/^src\/test_heuristic1_99.cpp.i:$/;"	t
+src/test_heuristic1_99.cpp.o	build/Makefile	/^src\/test_heuristic1_99.cpp.o:$/;"	t
+src/test_heuristic1_99.cpp.s	build/Makefile	/^src\/test_heuristic1_99.cpp.s:$/;"	t
+src/test_heuristic1_99.i	build/Makefile	/^src\/test_heuristic1_99.i: src\/test_heuristic1_99.cpp.i$/;"	t
+src/test_heuristic1_99.o	build/Makefile	/^src\/test_heuristic1_99.o: src\/test_heuristic1_99.cpp.o$/;"	t
+src/test_heuristic1_99.s	build/Makefile	/^src\/test_heuristic1_99.s: src\/test_heuristic1_99.cpp.s$/;"	t
+src/test_outter_routing.cpp.i	build/Makefile	/^src\/test_outter_routing.cpp.i:$/;"	t
+src/test_outter_routing.cpp.o	build/Makefile	/^src\/test_outter_routing.cpp.o:$/;"	t
+src/test_outter_routing.cpp.s	build/Makefile	/^src\/test_outter_routing.cpp.s:$/;"	t
+src/test_outter_routing.i	build/Makefile	/^src\/test_outter_routing.i: src\/test_outter_routing.cpp.i$/;"	t
+src/test_outter_routing.o	build/Makefile	/^src\/test_outter_routing.o: src\/test_outter_routing.cpp.o$/;"	t
+src/test_outter_routing.s	build/Makefile	/^src\/test_outter_routing.s: src\/test_outter_routing.cpp.s$/;"	t
+src/test_sample1.cpp.i	build/Makefile	/^src\/test_sample1.cpp.i:$/;"	t
+src/test_sample1.cpp.o	build/Makefile	/^src\/test_sample1.cpp.o:$/;"	t
+src/test_sample1.cpp.s	build/Makefile	/^src\/test_sample1.cpp.s:$/;"	t
+src/test_sample1.i	build/Makefile	/^src\/test_sample1.i: src\/test_sample1.cpp.i$/;"	t
+src/test_sample1.o	build/Makefile	/^src\/test_sample1.o: src\/test_sample1.cpp.o$/;"	t
+src/test_sample1.s	build/Makefile	/^src\/test_sample1.s: src\/test_sample1.cpp.s$/;"	t
+start	inc/circular_frame.h	/^                    start;$/;"	m	struct:syc::topology::v_04::detail::slice	typeref:typename:decl::topology_descriptor
+start_vertex	inc/topology.h	/^			void start_vertex( Vertex u, Graph const& g ) $/;"	f	struct:syc::topology::v_02::detail::compute_dest_ordering_and_cross_number	typeref:typename:void
+start_vertex	inc/topology.h	/^			void start_vertex( Vertex u, Graph const& g ) $/;"	f	struct:syc::topology::v_02::detail::compute_dest_ordering_and_cross_number2	typeref:typename:void
+start_vertex	inc/topology.h	/^			void start_vertex( Vertex u, Graph const& g ) $/;"	f	struct:syc::topology::v_02::detail::determine_net_priority_and_copmute_dest_ordering	typeref:typename:void
+start_vertex	inc/topology.h	/^			void start_vertex( Vertex u, Graph const& g ) $/;"	f	struct:syc::topology::v_03::detail::compute_dest_ordering_and_cross_number2	typeref:typename:void
+start_vertex	inc/topology.h	/^			void start_vertex( Vertex u, Graph const& g ) $/;"	f	struct:syc::topology::v_03::detail::compute_net_priority_and_dest_ordering	typeref:typename:void
+start_vertex	inc/topology.h	/^			void start_vertex( Vertex u, Graph const& g ) $/;"	f	struct:syc::topology::v_03::detail::determine_net_priority_and_copmute_dest_ordering	typeref:typename:void
+start_vertex	inc/topology.h	/^            void start_vertex( Vertex u, Graph const& g ) $/;"	f	struct:syc::topology::v_02::detail::accumulate_cross_number	typeref:typename:void
+switch_mother	inc/topology.h	/^	switch_mother( std::size_t u )$/;"	f	class:syc::topology::v_02::planar_orderd_forest_solution	typeref:typename:bool
+switch_mother	inc/topology.h	/^	switch_mother( std::size_t u )$/;"	f	class:syc::topology::v_03::planar_orderd_forest_solution	typeref:typename:bool
+syc	inc/circular_frame.h	/^namespace syc::topology::v_04$/;"	n
+syc	inc/gnugraph.h	/^namespace syc $/;"	n
+syc	inc/simulated_anealing.h	/^namespace syc {$/;"	n
+syc	inc/topology.h	/^namespace syc::topology$/;"	n
+syc	inc/topology.h	/^namespace syc::topology::v_02 $/;"	n
+syc	inc/topology.h	/^namespace syc::topology::v_03 $/;"	n
+t_escape	inc/topology.h	/^		t_escape( NetIter it, NetIter it_end )$/;"	f	class:syc::topology::model::v_01::topology_sketch_type	typeref:typename:unsigned
+t_escape	inc/topology.h	/^	t_escape( void )$/;"	f	class:syc::topology::v_02::circular_frame	typeref:typename:auto
+t_escape	inc/topology.h	/^	t_escape( void )$/;"	f	class:syc::topology::v_03::circular_frame	typeref:typename:auto
+t_escape2	inc/topology.h	/^	t_escape2( void )$/;"	f	class:syc::topology::v_02::circular_frame	typeref:typename:auto
+t_escape2	inc/topology.h	/^	t_escape2( void )$/;"	f	class:syc::topology::v_03::circular_frame	typeref:typename:auto
+t_escape3	inc/topology.h	/^	t_escape3( void )$/;"	f	class:syc::topology::v_03::circular_frame	typeref:typename:auto
+t_escape4	inc/topology.h	/^	t_escape4( void )$/;"	f	class:syc::topology::v_03::circular_frame	typeref:typename:auto
+table_label	src/write_to_xlsx.py	/^def table_label( row, col ): $/;"	f
+tadpole	CMakeLists.txt	/^project( tadpole )															# Project name, can be used as target name too$/;"	p
+test_dirtyarchieve	CMakeLists.txt	/^    test_dirtyarchieve $/;"	t
+test_dirtyarchieve	build/Makefile	/^test_dirtyarchieve: cmake_check_build_system$/;"	t
+test_dirtyarchieve/fast	build/Makefile	/^test_dirtyarchieve\/fast:$/;"	t
+test_heuristic1_256	CMakeLists.txt	/^    test_heuristic1_256$/;"	t
+test_heuristic1_256	build/Makefile	/^test_heuristic1_256: cmake_check_build_system$/;"	t
+test_heuristic1_256/fast	build/Makefile	/^test_heuristic1_256\/fast:$/;"	t
+test_heuristic1_500	CMakeLists.txt	/^    test_heuristic1_500$/;"	t
+test_heuristic1_500	build/Makefile	/^test_heuristic1_500: cmake_check_build_system$/;"	t
+test_heuristic1_500/fast	build/Makefile	/^test_heuristic1_500\/fast:$/;"	t
+test_heuristic1_59	CMakeLists.txt	/^    test_heuristic1_59$/;"	t
+test_heuristic1_59	build/Makefile	/^test_heuristic1_59: cmake_check_build_system$/;"	t
+test_heuristic1_59/fast	build/Makefile	/^test_heuristic1_59\/fast:$/;"	t
+test_heuristic1_99	CMakeLists.txt	/^    test_heuristic1_99$/;"	t
+test_heuristic1_99	build/Makefile	/^test_heuristic1_99: cmake_check_build_system$/;"	t
+test_heuristic1_99/fast	build/Makefile	/^test_heuristic1_99\/fast:$/;"	t
+test_outter_routing	CMakeLists.txt	/^    test_outter_routing$/;"	t
+test_outter_routing	build/Makefile	/^test_outter_routing: cmake_check_build_system$/;"	t
+test_outter_routing/fast	build/Makefile	/^test_outter_routing\/fast:$/;"	t
+test_sample1	CMakeLists.txt	/^    test_sample1$/;"	t
+test_sample1	build/Makefile	/^test_sample1: cmake_check_build_system$/;"	t
+test_sample1/fast	build/Makefile	/^test_sample1\/fast:$/;"	t
+the_basic_routing_algorithm	inc/topology.h	/^		the_basic_routing_algorithm( NetIter it, NetIter it_end )$/;"	f	class:syc::topology::model::v_01::topology_sketch_type	typeref:typename:unsigned
+the_basic_routing_algorithm	inc/topology.h	/^	the_basic_routing_algorithm( void )$/;"	f	class:syc::topology::v_02::circular_frame	typeref:typename:auto
+the_basic_routing_algorithm	inc/topology.h	/^	the_basic_routing_algorithm( void )$/;"	f	class:syc::topology::v_03::circular_frame	typeref:typename:auto
+the_basic_routing_algorithm	src/experiment.cpp	/^struct the_basic_routing_algorithm $/;"	s	file:
+the_basic_routing_algorithm	src/experiment2.cpp	/^    struct the_basic_routing_algorithm $/;"	s	namespace:Routing_Policy	file:
+topo_descr_impl	inc/topology.h	/^		using topo_descr_impl = $/;"	t	namespace:syc::topology::detail::v_01	typeref:typename:std::tuple<std::size_t,int,std::list<std::vector<std::size_t>>::iterator>
+topo_descriptor	inc/topology.h	/^					using topo_descriptor 		= typename slice_type::iterator;$/;"	t	class:syc::topology::model::v_01::sketchable_forest	typeref:typename:slice_type::iterator
+topo_id	inc/topology.h	/^			topo_id( topo_descriptor const d ) -> std::size_t								$/;"	f	class:syc::topology::model::v_01::sketchable_forest	typeref:typename:std::size_t
+topo_instances	inc/topology.h	/^			topo_instances( std::size_t const v ) -> std::vector<topo_descriptor>$/;"	f	class:syc::topology::model::v_01::sketchable_forest	typeref:typename:std::vector<topo_descriptor>
+topological_vertex	inc/circular_frame.h	/^        struct topological_vertex$/;"	s	namespace:syc::topology::v_04::detail
+topology	inc/circular_frame.h	/^namespace syc::topology::v_04$/;"	n	namespace:syc
+topology	inc/topology.h	/^					topology_type 	topology;$/;"	m	class:syc::topology::model::v_01::sketchable_forest	typeref:typename:topology_type
+topology	inc/topology.h	/^namespace syc::topology$/;"	n	namespace:syc
+topology	inc/topology.h	/^namespace syc::topology::v_02 $/;"	n	namespace:syc
+topology	inc/topology.h	/^namespace syc::topology::v_03 $/;"	n	namespace:syc
+topology_descriptor	inc/circular_frame.h	/^        using   topology_descriptor     = slice_base::iterator;$/;"	t	namespace:syc::topology::v_04::decl	typeref:typename:slice_base::iterator
+topology_escape_routing_1	src/experiment.cpp	/^struct topology_escape_routing_1$/;"	s	file:
+topology_escape_routing_1	src/experiment2.cpp	/^    struct topology_escape_routing_1$/;"	s	namespace:Routing_Policy	file:
+topology_escape_routing_2	src/experiment.cpp	/^struct topology_escape_routing_2$/;"	s	file:
+topology_escape_routing_2	src/experiment2.cpp	/^    struct topology_escape_routing_2$/;"	s	namespace:Routing_Policy	file:
+topology_escape_routing_3	src/experiment.cpp	/^struct topology_escape_routing_3$/;"	s	file:
+topology_escape_routing_3	src/experiment2.cpp	/^    struct topology_escape_routing_3$/;"	s	namespace:Routing_Policy	file:
+topology_escape_routing_4	src/experiment.cpp	/^struct topology_escape_routing_4$/;"	s	file:
+topology_escape_routing_4	src/experiment2.cpp	/^    struct topology_escape_routing_4$/;"	s	namespace:Routing_Policy	file:
+topology_sketch_type	inc/topology.h	/^				topology_sketch_type( RootContainer&& roots, LeafContainer&& leafs ): $/;"	f	class:syc::topology::model::v_01::topology_sketch_type
+topology_sketch_type	inc/topology.h	/^		class topology_sketch_type $/;"	c	namespace:syc::topology::model::v_01
+topology_test_1	src/test_dirtyarchieve.cpp	/^void topology_test_1( void )$/;"	f	typeref:typename:void
+topology_test_10	src/test_dirtyarchieve.cpp	/^void topology_test_10( void ) $/;"	f	typeref:typename:void
+topology_test_11	src/test_dirtyarchieve.cpp	/^void topology_test_11( std::string ViaResults_FileName, std::string IoDrc_FileName )    \/\/ ***/;"	f	typeref:typename:void
+topology_test_2	src/test_dirtyarchieve.cpp	/^void topology_test_2( void )$/;"	f	typeref:typename:void
+topology_test_3	src/test_dirtyarchieve.cpp	/^void topology_test_3( void )$/;"	f	typeref:typename:void
+topology_test_4	src/test_dirtyarchieve.cpp	/^void topology_test_4( void ) $/;"	f	typeref:typename:void
+topology_test_5	src/test_dirtyarchieve.cpp	/^void topology_test_5( void ) $/;"	f	typeref:typename:void
+topology_test_6	src/test_dirtyarchieve.cpp	/^void topology_test_6( void ) $/;"	f	typeref:typename:void
+topology_test_6_2	src/test_dirtyarchieve.cpp	/^void topology_test_6_2( void ) $/;"	f	typeref:typename:void
+topology_test_6_3	src/test_dirtyarchieve.cpp	/^void topology_test_6_3( void ) $/;"	f	typeref:typename:void
+topology_test_7	src/test_dirtyarchieve.cpp	/^void topology_test_7( void ) {$/;"	f	typeref:typename:void
+topology_test_8	src/test_dirtyarchieve.cpp	/^void topology_test_8( std::string ViaResults_FileName, std::string IoDrc_FileName )     \/\/ ***$/;"	f	typeref:typename:void
+topology_test_9	src/test_dirtyarchieve.cpp	/^void topology_test_9( void ) $/;"	f	typeref:typename:void
+topology_type	inc/topology.h	/^					using topology_type			= std::list<std::pair<slice_descriptor,topo_descriptor>>;$/;"	t	class:syc::topology::model::v_01::sketchable_forest	typeref:typename:std::list<std::pair<slice_descriptor,topo_descriptor>>
+tree_edge	inc/topology.h	/^					void tree_edge( Edge e, Graph const& g )  $/;"	f	class:syc::topology::detail::v_01::build_sketchable_forest	typeref:typename:void
+tree_edge	inc/topology.h	/^					void tree_edge( Edge e, Graph const& g )  $/;"	f	class:syc::topology::v_02::detail::build_sketchable_forest	typeref:typename:void
+tree_edge	inc/topology.h	/^					void tree_edge( Edge e, Graph const& g )  $/;"	f	class:syc::topology::v_03::detail::build_directed_forest	typeref:typename:void
+tree_edge	inc/topology.h	/^					void tree_edge( Edge e, Graph const& g )  $/;"	f	class:syc::topology::v_03::detail::build_sketchable_forest	typeref:typename:void
+tree_edge	inc/topology.h	/^				void tree_edge( Edge e, Graph const& g )  $/;"	f	class:syc::topology::detail::v_01::compute_dest	typeref:typename:void
+tree_edge	inc/topology.h	/^				void tree_edge( Edge e, Graph const& g )  $/;"	f	struct:syc::topology::v_02::detail::set_mother_vertex_property	typeref:typename:void
+tree_side_of_an_edge	inc/topology.h	/^					enum _Att		{ tree_side_of_an_edge = 0, back_side_of_an_edge = 1, vertex = 2 };$/;"	e	enum:syc::topology::model::v_01::sketchable_forest::_Att
+txt_vitualizer	inc/topology.h	/^			txt_vitualizer( void ) const  $/;"	f	class:syc::topology::model::v_01::sketchable_forest	typeref:typename:void
+txt_vitualizer2	inc/topology.h	/^			txt_vitualizer2( std::ostream& os ) const  $/;"	f	class:syc::topology::model::v_01::sketchable_forest	typeref:typename:void
+type	inc/topology.h	/^					using type = typename boost::polygon::point_concept;$/;"	t	struct:boost::polygon::geometry_concept	typeref:typename:boost::polygon::point_concept
+upward	inc/topology.h	/^					enum _SliceDir	{ downward = 0, upward = 1 };$/;"	e	enum:syc::topology::model::v_01::sketchable_forest::_SliceDir
+v_01	inc/gnugraph.h	/^		namespace v_01 $/;"	n	namespace:syc::gnuplot
+v_01	inc/simulated_anealing.h	/^	namespace SA::v_01 {$/;"	n	namespace:syc::SA
+v_01	inc/topology.h	/^	namespace detail::v_01							\/\/ implementation detail$/;"	n	namespace:syc::topology::detail
+v_01	inc/topology.h	/^	namespace model::v_01								\/\/ model for users$/;"	n	namespace:syc::topology::model
+v_02	inc/gnugraph.h	/^		namespace v_02 $/;"	n	namespace:syc::gnuplot
+v_02	inc/topology.h	/^namespace syc::topology::v_02 $/;"	n	namespace:syc::topology
+v_03	inc/topology.h	/^namespace syc::topology::v_03 $/;"	n	namespace:syc::topology
+v_04	inc/circular_frame.h	/^namespace syc::topology::v_04$/;"	n	namespace:syc::topology
+value	inc/topology.h	/^        static const order_selector value = counterclockwise;$/;"	m	struct:boost::geometry::point_order	typeref:typename:const order_selector
+vertex	inc/topology.h	/^					enum _Att		{ tree_side_of_an_edge = 0, back_side_of_an_edge = 1, vertex = 2 };$/;"	e	enum:syc::topology::model::v_01::sketchable_forest::_Att
+vertex_cell	inc/topology.h	/^enum vertex_cell_t			{ vertex_cell			};$/;"	e	enum:vertex_cell_t
+vertex_cell_t	inc/topology.h	/^enum vertex_cell_t			{ vertex_cell			};$/;"	g
+vertex_coordinate	inc/topology.h	/^enum vertex_coordinate_t	{ vertex_coordinate 	};$/;"	e	enum:vertex_coordinate_t
+vertex_coordinate_t	inc/topology.h	/^enum vertex_coordinate_t	{ vertex_coordinate 	};$/;"	g
+vertex_deg	inc/topology.h	/^enum vertex_deg_t			{ vertex_deg			};$/;"	e	enum:vertex_deg_t
+vertex_deg_t	inc/topology.h	/^enum vertex_deg_t			{ vertex_deg			};$/;"	g
+vertex_dest	inc/topology.h	/^enum vertex_dest_t			{ vertex_dest			};$/;"	e	enum:vertex_dest_t
+vertex_dest_t	inc/topology.h	/^enum vertex_dest_t			{ vertex_dest			};$/;"	g
+vertex_diameter	inc/topology.h	/^enum vertex_diameter_t		{ vertex_diameter 		};$/;"	e	enum:vertex_diameter_t
+vertex_diameter_t	inc/topology.h	/^enum vertex_diameter_t		{ vertex_diameter 		};$/;"	g
+vertex_idx	inc/topology.h	/^enum vertex_idx_t			{ vertex_idx			};$/;"	e	enum:vertex_idx_t
+vertex_idx_t	inc/topology.h	/^enum vertex_idx_t			{ vertex_idx			};$/;"	g
+vertex_mother	inc/topology.h	/^enum vertex_mother_t		{ vertex_mother			};$/;"	e	enum:vertex_mother_t
+vertex_mother_t	inc/topology.h	/^enum vertex_mother_t		{ vertex_mother			};$/;"	g
+vertex_topoInstance	inc/topology.h	/^enum vertex_topoInstance_t	{ vertex_topoInstance 	};$/;"	e	enum:vertex_topoInstance_t
+vertex_topoInstance_t	inc/topology.h	/^enum vertex_topoInstance_t	{ vertex_topoInstance 	};$/;"	g
+vertex_width	inc/topology.h	/^enum vertex_width_t			{ vertex_width 			};$/;"	e	enum:vertex_width_t
+vertex_width_t	inc/topology.h	/^enum vertex_width_t			{ vertex_width 			};$/;"	g
+viadiamter	inc/topology.h	/^            CoordinateType      viadiamter; $/;"	m	class:syc::topology::v_02::package_data	typeref:typename:CoordinateType
+viadiamter	inc/topology.h	/^            CoordinateType      viadiamter; $/;"	m	class:syc::topology::v_03::package_data	typeref:typename:CoordinateType
+volatile	build/CMakeFiles/3.21.2/CompilerIdC/CMakeCCompilerId.c	/^# define volatile$/;"	d	file:
+voronoi_cell_type	inc/topology.h	/^				using voronoi_cell_type					= typename voronoi_diagram_type::cell_type;$/;"	t	class:syc::topology::model::v_01::topology_sketch_type	typeref:typename:voronoi_diagram_type::cell_type
+voronoi_diagram_type	inc/topology.h	/^				using voronoi_diagram_type				= boost::polygon::voronoi_diagram<CoordinateType>;$/;"	t	class:syc::topology::model::v_01::topology_sketch_type	typeref:typename:boost::polygon::voronoi_diagram<CoordinateType>
+voronoi_diagram_type	inc/topology.h	/^			using voronoi_diagram_type	= VoronoiDiagramType;$/;"	t	class:syc::topology::v_02::planar_orderd_forest_solution	typeref:typename:VoronoiDiagramType
+voronoi_diagram_type	inc/topology.h	/^			using voronoi_diagram_type	= VoronoiDiagramType;$/;"	t	class:syc::topology::v_03::planar_orderd_forest_solution	typeref:typename:VoronoiDiagramType
+vp	inc/topology.h	/^			using vp = typename boost::property<boost::vertex_index_t,	int,												\/\/ reserved but /;"	t	namespace:syc::topology::detail::v_01
+wb	src/write_to_xlsx.py	/^    wb = Workbook()$/;"	v
+wirewidth	inc/topology.h	/^            CoordinateType      wirewidth; $/;"	m	class:syc::topology::v_02::package_data	typeref:typename:CoordinateType
+wirewidth	inc/topology.h	/^            CoordinateType      wirewidth; $/;"	m	class:syc::topology::v_03::package_data	typeref:typename:CoordinateType
+work_flow	src/experiment.cpp	/^auto work_flow( $/;"	f	typeref:typename:auto
+work_flow	src/experiment2.cpp	/^        auto work_flow( SimpleRing const& B, InteriorPoint const& P, Net const& N,$/;"	f	namespace:Test::detail	typeref:typename:auto
+write_MST_data	inc/topology.h	/^	write_MST_data( std::ofstream& gnuplot_script_file )$/;"	f	class:syc::topology::v_03::planar_orderd_forest_solution	typeref:typename:auto
+write_boudary_data	inc/topology.h	/^    write_boudary_data( std::ofstream& script, char* color )$/;"	f	class:syc::topology::v_02::package_data	typeref:typename:auto
+write_boudary_data	inc/topology.h	/^    write_boudary_data( std::ofstream& script, char* color )$/;"	f	class:syc::topology::v_03::package_data	typeref:typename:auto
+write_boundary_data	inc/topology.h	/^	write_boundary_data( std::ofstream& gnuplot_script_file )$/;"	f	class:syc::topology::v_03::planar_orderd_forest_solution	typeref:typename:auto
+write_bump_data	inc/topology.h	/^    write_bump_data( std::ofstream& script, char* color )$/;"	f	class:syc::topology::v_02::package_data	typeref:typename:auto
+write_bump_data	inc/topology.h	/^    write_bump_data( std::ofstream& script, char* color )$/;"	f	class:syc::topology::v_03::package_data	typeref:typename:auto
+write_finger_data	inc/topology.h	/^    write_finger_data( std::ofstream& script, char* color )$/;"	f	class:syc::topology::v_02::package_data	typeref:typename:auto
+write_finger_data	inc/topology.h	/^    write_finger_data( std::ofstream& script, char* color )$/;"	f	class:syc::topology::v_03::package_data	typeref:typename:auto
+write_normalization	src/write_to_xlsx.py	/^def write_normalization( Routing_Policy, MST_Policy, L, T, offset ):$/;"	f
+write_path_data	inc/topology.h	/^	write_path_data( std::ofstream& gnuplot_script_file, GeometricPath const& gp )$/;"	f	class:syc::topology::v_03::planar_orderd_forest_solution	typeref:typename:auto
+write_path_data	inc/topology.h	/^	write_path_data( std::ofstream& gnuplot_script_file, GeometricPath const& gp, unsigned i )$/;"	f	class:syc::topology::v_03::planar_orderd_forest_solution	typeref:typename:auto
+write_perturb	inc/topology.h	/^            void    write_perturb( std::ostream& os ) { for ( auto const& i : _perturbs ) { os </;"	f	class:syc::topology::v_03::planar_orderd_forest_solution	typeref:typename:void
+write_perturb	inc/topology.h	/^            void write_perturb( std::ostream& os ) { for ( auto const& i : _perturbs ) { os << i/;"	f	class:syc::topology::v_02::planar_orderd_forest_solution	typeref:typename:void
+write_point_data	inc/topology.h	/^	write_point_data( std::ofstream& gnuplot_script_file )$/;"	f	class:syc::topology::v_03::planar_orderd_forest_solution	typeref:typename:auto
+write_result	src/write_to_xlsx.py	/^def write_result( Routing_Policy, MST_Policy, L, T ):$/;"	f
+write_to_strm	inc/topology.h	/^    auto comparision< CircularFrameNet, GeometricalPath >::write_to_strm( std::ostream& os )$/;"	f	class:syc::topology::v_03::comparision	typeref:typename:auto
+write_to_xlsx	inc/topology.h	/^    auto comparision< CircularFrameNet, GeometricalPath >::write_to_xlsx( std::string file_name /;"	f	class:syc::topology::v_03::comparision	typeref:typename:auto
+write_triangulation_data	inc/topology.h	/^	write_triangulation_data( std::ofstream& gnuplot_script_file )$/;"	f	class:syc::topology::v_03::planar_orderd_forest_solution	typeref:typename:auto
+write_via_data	inc/topology.h	/^    write_via_data( std::ofstream& script, char* color )$/;"	f	class:syc::topology::v_02::package_data	typeref:typename:auto
+write_via_data	inc/topology.h	/^    write_via_data( std::ofstream& script, char* color )$/;"	f	class:syc::topology::v_03::package_data	typeref:typename:auto
+ws	src/write_to_xlsx.py	/^    ws = wb.active$/;"	v
+x	inc/topology.h	/^            CoordinateType  x;$/;"	m	struct:syc::topology::v_02::detail::io_pad	typeref:typename:CoordinateType
+x	inc/topology.h	/^            CoordinateType  x;$/;"	m	struct:syc::topology::v_03::detail::io_pad	typeref:typename:CoordinateType
+y	inc/topology.h	/^            CoordinateType  y;$/;"	m	struct:syc::topology::v_02::detail::io_pad	typeref:typename:CoordinateType
+y	inc/topology.h	/^            CoordinateType  y;$/;"	m	struct:syc::topology::v_03::detail::io_pad	typeref:typename:CoordinateType
