@@ -53,6 +53,8 @@ make -C build
 
 - 我的實作內容都放在 ./inc/topology.h 檔案裡。所有用到我的實作的 source file  都必須包含 `#include <topology.h>`。其具體如何使用，請看 ./src/experiment2.cpp，這個 source file 就是我的論文中整個 topology escape routing flow 的實作，要 trace code 可以從這裡開始。
 
+## Developer Notes
+
 - 若要了解我的論文中 triple list table 怎麼使用，可以見 demo_1.cpp ～ demo_6.cpp，這幾個 demo 是用來產生我論文中的示意圖的，可以自己玩一下，有助於了解 triple list 的核心實作。若遇到 segmentation fault 或是很奇怪的結果，就是你 make_slice 了不在相同 slice 的 topology vertices，這樣是不合法的所以產生未定義行為。唯注意 demo 中 `syc::topology::model::v_01::sketchable_forest<>` 這個 class 就是 triple list table 的實作，v_01 代表是第一版，名字不一樣是因為後來論文的最終名字與一開始取的名字不一樣。
 
 - 我們來看看 ./inc/topology.h 。建議使用 ctags 來 trace code，可以看到右邊的 panel，這是 [vim-ctags plugin](https://github.com/webastien/vim-ctags) 顯示 ctags  產生的 tags 檔的結果。![Screen shot 1](./documentation/fig/Screen_shot_1.png) 我的實作都放在 syc::topology  namespace 之下，v_01 代表第一版，sketchable_forest就是實作在這一版本裡，第二第三版都會繼承這個 class，而第二版是過渡期，不用進去看，需要看 v_01 及 v_03 的內容就可以了
