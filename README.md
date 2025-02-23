@@ -1,7 +1,3 @@
-Here’s your README rephrased into English:
-
----
-
 # README
 
 Hello everyone! I am the author of this project, **Yueh-Chang Shieh**, and my advisor is **Dr. Yi-Yu Liu**.  
